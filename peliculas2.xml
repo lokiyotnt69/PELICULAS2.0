@@ -3,7 +3,7 @@
 
 <channels>   
 <channel>
-<name> [COLOR gold] Accion ACTUALIZANDO [/COLOR]   </name>
+<name> [COLOR gold] Accion  [/COLOR]   </name>
 <thumbnail>http://cdn.revistagq.com/uploads/images/thumbs/201241/100_peliculas_accion_7189_701x368.jpg</thumbnail>
 <fanart>http://www.paridasclub.com/wp/wp-content/uploads/2015/09/expendables4.jpg</fanart>
 <items>
@@ -87,7 +87,104 @@
 
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Marte</title>
+<urlsolve>http://streamcloud.eu/x07mt8t5brl5/Mart3HDR.Down.avi.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Spectre </title>
+<urlsolve>http://streamin.to/abrb69axzgha</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Mad Max: Furia en la carretera </title>
+<urlsolve>http://streamcloud.eu/k1k24ayghi9d/Max.2015.DVDrip..Lati.avi.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Insurgente </title>
+<urlsolve>http://streamcloud.eu/hhorhgt130b0/InsurgHDR.avi.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  Blackhat - Amenaza en la red</title>
+<urlsolve>http://streamcloud.eu/yrsqnl9k9grs</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  Terminator Génesis</title>
+<urlsolve>http://streamcloud.eu/kz6dfls82125</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  El destino de Júpiter</title>
+<urlsolve>http://streamcloud.eu/erqwwcbwt4l5</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  Hitman: Agente 47</title>
+<urlsolve>http://streamcloud.eu/z7yaih0xdvig</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Batman v Superman: El Amanecer de la Justicia </title>
+<urlsolve>http://streamcloud.eu/vd607fnxlrzc/B4tm4n_VS_S11p3rm4n_V.Extendida_HDRip_Anonymous_xxx.avi.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Deadpool </title>
+<urlsolve>http://streamin.to/meo05j0irzr0</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -111,6 +208,13 @@
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
