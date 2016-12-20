@@ -639,7 +639,7 @@
 
 
 <channel>
-<name>[COLOR skyblue]COMEDIA[/COLOR] </name>
+<name>[COLOR skyblue]COMEDIA++[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <items>
@@ -649,7 +649,7 @@
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Ocho Apellidos Catalanes </title>
 <urlsolve>http://streamcloud.eu/dney3jsw1n08/0CHO_4PP3LL1D0S_C4T4L4N3S_HDRip_Anonymous_xxx.avi.html</urlsolve>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://telecincostatic-a.akamaihd.net/t5cinema/cine-2015/ocho-apellidos-catalanes/actores-deciden-comedia-apellidos-catalanes_MDSVID20150731_0096_17.png</fanart>
 </item>
 
 
@@ -658,29 +658,37 @@
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Malditos vecinos</title>
 <urlsolve>http://streamcloud.eu/u9fid0wezoqs/Malditos_vecinos_HDrip.avi.html</urlsolve>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.blogs.es/0102bd/malditos-vecinos-cartel/original.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]Pancho, el perro millonario</title>
 <urlsolve>http://streamcloud.eu/sxmp9qemr04f</urlsolve>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.ifweweredogs.com/wp-content/uploads/2014/01/1-pancho-el-perro-millonario-millionaire-dog-film-pelicula.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Relatos salvajes</title>
 <urlsolve>http://streamcloud.eu/qwiymuc8oec3/Rel.Salv.HDR.bibiamorant.avi.html</urlsolve>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.mubis.es/media/users/8832/102330/mi-critica-de-relatos-salvajes-original.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Infiltrados en la universidad</title>
-<urlsolve>http://streamcloud.eu/4l8sviansvud/Cl4s3HDRip...avi.html</urlsolve>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Academia de Vampiros</title>
+<urlsolve>http://streamcloud.eu/273ropf3pjpg/V4mpir3Aca.DVDR..avi.html</urlsolve>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://4.bp.blogspot.com/-QF13Heqq8K0/U6h_syYt4iI/AAAAAAAAbqw/785O6Lc5mOw/s1600/Vampire_Academy.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Dos tontos todavía más tonto</title>
+<urlsolve>http://streamcloud.eu/ztfhgvkt5gbx/D0st0nt0sHDR.bibiamorant.avi.html</urlsolve>
+<thumbnail></thumbnail>
+<fanart>http://110.imagebam.com/temporarylink/5WXiOuUba4o9NIHTme7k3w/1482269408/39356/393558064/dos1.jpg</fanart>
 </item>
 
 
@@ -699,6 +707,30 @@
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] </title>
