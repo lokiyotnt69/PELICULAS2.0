@@ -13,9 +13,19 @@
 
 
 <item>
-<title>-[COLOR  pink] MEGAPELICULAS  [/COLOR]</title>
+<title>-[COLOR  pink] MEGAPELICULAS  Animación[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/todopeliculas.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/animacion.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR  pink] MEGAPELICULAS TERROR[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Terror.xml</externallink>	
 </item>
