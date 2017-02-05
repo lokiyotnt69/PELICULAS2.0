@@ -5,25 +5,22 @@
 
           <item> 
             <title>[COLOR yellow] TAQUILLA_1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_1</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] TAQUILLA_2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] TAQUILLA-3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA-3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA-3</link> 
         </item>
            <item> 
             <title>[COLOR yellow] TAQUILLA_4 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_4</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_4</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  TAQUILLA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name= TAQUILLA 5</link> 
         </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+		
