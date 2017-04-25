@@ -4,7 +4,7 @@
 
 #EXTINF:0,[COLOR red]              * CINE[/COLOR][COLOR blue] DIABLO [/COLOR] [COLOR white] ACCION [/COLOR] 
 
-#EXTINF:0,...y si no, nos enfadamos
+#EXTINF:0,tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",GLOBO NORDESTE...y si no, nos enfadamos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4447&peli=pszasKfMrYrdlpjrk7_cr7HPu7baoI_pow==&id=15023&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
 #EXTINF:0,[COLOR tomato]...y si no, nos enfadamos [/COLOR][COLOR cyan](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
