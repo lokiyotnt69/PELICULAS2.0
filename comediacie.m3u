@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:0,[COLOR gold] **[/COLOR](500) Días juntos [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42ka2iX&id=35742&tit=KDUwMCkgRMOtYXMganVudG9z
 #EXTINF:0,[COLOR gold] **[/COLOR]...Y que le gusten los perros
