@@ -64,30 +64,30 @@
 
 
 <item>
-<title>-[COLOR  red] TERROR ooff [/COLOR]</title>
+<title>-[COLOR  red] TERROR  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CINETERROR.xml</externallink>	
 </item>
 
 
 <item>
-<title>-[COLOR  yellow] SUSPENSE off [/COLOR]</title>
+<title>-[COLOR  yellow] SUSPENSE  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/CINESUSPENSE.xml</externallink>	
 </item>
 
 
 
 <item>
-<title>-[COLOR  red] OESTE off[/COLOR]</title>
+<title>-[COLOR  red] OESTE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/CINEOESTE.xml</externallink>	
 </item>
 
 
@@ -100,4 +100,40 @@
 </item>
 
 
+
+<item>
+<title>-[COLOR  yellow]CINE ROMANCE /COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Cineromance.xml</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] CINE FICCION  /COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Cineficcion.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR  yellow] /COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] /COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
