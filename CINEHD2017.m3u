@@ -44,7 +44,26 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWqcdA==&id=31385&tit=QSB0b2RvIGdhcw==
 #EXTINF:0,[COLOR yellow]A todo gas 2 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=59180&peli=qY-pbWee&id=7833&tit=QSB0b2RvIGdhcyAy
-
+#EXTINF:0,[COLOR yellow]A todo gas: Tokyo Race (A todo gas 3) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWuXeA==&id=31387&tit=QSB0b2RvIGdhczogVG9reW8gUmFjZSAoQSB0b2RvIGdhcyAzKQ==
+#EXTINF:0,[COLOR yellow]Abierto hasta el amanecer 2: Texas Blood Money [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qY6oaGue&id=33356&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAyOiBUZXhhcyBCbG9vZCBNb25leQ==
+#EXTINF:0,[COLOR yellow]Abismo [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZCrbGqg&id=29916&tit=QWJpc21v
+#EXTINF:0,[COLOR yellow]Abraham Lincoln: Cazador de vampiros [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmbG2gdA==&id=31015&tit=QWJyYWhhbSBMaW5jb2xuOiBDYXphZG9yIGRlIHZhbXBpcm9z
+#EXTINF:0,[COLOR yellow]Acción Jackson [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqpbm6e&id=30519&tit=QWNjacOzbiBKYWNrc29u
+#EXTINF:0,[COLOR yellow]Acero puro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcWyXdA==&id=31630&tit=QWNlcm8gcHVybw==
+#EXTINF:0,[COLOR yellow]Acorralado (Rambo) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmadw==&id=31372&tit=QWNvcnJhbGFkbyAoUmFtYm8p
+#EXTINF:0,[COLOR yellow]Acorralados [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mcWegdg==&id=35747&tit=QWNvcnJhbGFkb3M=
+#EXTINF:0,[COLOR yellow]After Earth [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIynamyYdw==&id=31632&tit=QWZ0ZXIgRWFydGg=
+#EXTINF:0,[COLOR yellow]Agente 007 contra el Dr. No [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYukcWqb&id=13421&tit=QWdlbnRlIDAwNyBjb250cmEgZWwgRHIuIE5v
 
 
 
