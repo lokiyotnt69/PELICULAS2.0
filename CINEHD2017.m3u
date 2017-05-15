@@ -378,6 +378,20 @@ plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22687&p
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87202&peli=pIupanCadw==&id=3926&tit=RWwgZ3VlcnJlcm8gcm9qbw==
 #EXTINF:0,[COLOR yellow]El Hobbit: La batalla de los cinco ejércitos [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&peli=pIurcG2gcg==&id=29413&tit=RWwgSG9iYml0OiBMYSBiYXRhbGxhIGRlIGxvcyBjaW5jbyBlasOpcmNpdG9z
+#EXTINF:0,[COLOR yellow]El Hobbit: La desolación de Smaug [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&peli=pIurcG6Xdw==&id=29408&tit=RWwgSG9iYml0OiBMYSBkZXNvbGFjacOzbiBkZSBTbWF1Zw==
+#EXTINF:0,[COLOR yellow]El Hobbit: Un viaje inesperado [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87863&peli=pIurcG6Zdw==&id=29407&tit=RWwgSG9iYml0OiBVbiB2aWFqZSBpbmVzcGVyYWRv
+#EXTINF:0,[COLOR yellow]El hombre de acero [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcW6XcQ==&id=31645&tit=RWwgaG9tYnJlIGRlIGFjZXJv
+#EXTINF:0,[COLOR yellow]El hombre de la pistola de oro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY6nb26b&id=13430&tit=RWwgaG9tYnJlIGRlIGxhIHBpc3RvbGEgZGUgb3Jv
+#EXTINF:0,[COLOR yellow]El hombre sin pasado [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qZKmb2if&id=34227&tit=RWwgaG9tYnJlIHNpbiBwYXNhZG8=
+#EXTINF:0,[COLOR yellow]El hombre sin sombra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIunaWmdcQ==&id=31646&tit=RWwgaG9tYnJlIHNpbiBzb21icmE=
+#EXTINF:0,[COLOR yellow]El imperio del fuego [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85451&peli=pI6pcW-bdQ==&id=34169&tit=RWwgaW1wZXJpbyBkZWwgZnVlZ28=
 
 
 
