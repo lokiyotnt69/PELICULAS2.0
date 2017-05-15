@@ -8,62 +8,103 @@
 
 
 
-#EXTINF:0,[COLOR yellow]...y si no, nos enfadamos [/COLOR][COLOR skyblue](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]...y si no, nos enfadamos [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
-#EXTINF:0,[COLOR yellow]007 al servicio secreto de su Majestad [/COLOR][COLOR cyan](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]007 al servicio secreto de su Majestad [/COLOR][COLOR cyan](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2raGmb&id=13428&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
-#EXTINF:0,[COLOR yellow]10.0 Terremoto en Los Ángeles [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]10.0 Terremoto en Los Ángeles [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kcWmYeg==&id=32958&tit=MTAuMCBUZXJyZW1vdG8gZW4gTG9zIMOBbmdlbGVz
-#EXTINF:0,[COLOR yellow]12 trampas [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]12 trampas [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbW-a&id=33468&tit=MTIgdHJhbXBhcw==
-#EXTINF:0,[COLOR yellow]12 trampas 2 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]12 trampas 2 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmug&id=33469&tit=MTIgdHJhbXBhcyAy
-#EXTINF:0,[COLOR yellow]13 asesinos [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]13 asesinos [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbm2X&id=33466&tit=MTMgYXNlc2lub3M=
-#EXTINF:0,[COLOR yellow]13 Horas: Los soldados secretos de Bengasi [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]13 Horas: Los soldados secretos de Bengasi [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6tbm-a&id=29337&tit=MTMgSG9yYXM6IExvcyBzb2xkYWRvcyBzZWNyZXRvcyBkZSBCZW5nYXNp
-#EXTINF:0,[COLOR yellow]1997: Rescate en Nueva York [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]1997: Rescate en Nueva York [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGicdQ==&id=33473&tit=MTk5NzogUmVzY2F0ZSBlbiBOdWV2YSBZb3Jr
-#EXTINF:0,[COLOR yellow]2 Guns [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]2 Guns [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmic&id=12341&tit=MiBHdW5z
-#EXTINF:0,[COLOR yellow]2012 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]2012 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85446&peli=pIunaWyZeg==&id=31500&tit=MjAxMg==
-#EXTINF:0,[COLOR yellow]22 Balas (El inmortal) [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]22 Balas (El inmortal) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqocW-c&id=30201&tit=MjIgQmFsYXMgKEVsIGlubW9ydGFsKQ==
-#EXTINF:0,[COLOR yellow]30 minutos para morir [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]30 minutos para morir [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6ta22g&id=5607&tit=MzAgbWludXRvcyBwYXJhIG1vcmly
-#EXTINF:0,[COLOR yellow]300 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]300 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87192&peli=pIupaWqZeQ==&id=31392&tit=MzAw
-#EXTINF:0,[COLOR yellow]300: El origen de un imperio [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]300: El origen de un imperio [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqpaGee&id=30202&tit=MzAwOiBFbCBvcmlnZW4gZGUgdW4gaW1wZXJpbw==
-#EXTINF:0,[COLOR yellow]7 cajas [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]7 cajas [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaGydeA==&id=35865&tit=NyBjYWphcw==
-#EXTINF:0,[COLOR yellow]A Bittersweet Life [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]A Bittersweet Life [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaXCddg==&id=34845&tit=QSBCaXR0ZXJzd2VldCBMaWZl
-#EXTINF:0,[COLOR yellow]A todo gas [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]A todo gas [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWqcdA==&id=31385&tit=QSB0b2RvIGdhcw==
-#EXTINF:0,[COLOR yellow]A todo gas 2 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]A todo gas 2 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=59180&peli=qY-pbWee&id=7833&tit=QSB0b2RvIGdhcyAy
-#EXTINF:0,[COLOR yellow]A todo gas: Tokyo Race (A todo gas 3) [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]A todo gas: Tokyo Race (A todo gas 3) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWuXeA==&id=31387&tit=QSB0b2RvIGdhczogVG9reW8gUmFjZSAoQSB0b2RvIGdhcyAzKQ==
-#EXTINF:0,[COLOR yellow]Abierto hasta el amanecer 2: Texas Blood Money [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Abierto hasta el amanecer 2: Texas Blood Money [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qY6oaGue&id=33356&tit=QWJpZXJ0byBoYXN0YSBlbCBhbWFuZWNlciAyOiBUZXhhcyBCbG9vZCBNb25leQ==
-#EXTINF:0,[COLOR yellow]Abismo [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Abismo [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZCrbGqg&id=29916&tit=QWJpc21v
-#EXTINF:0,[COLOR yellow]Abraham Lincoln: Cazador de vampiros [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Abraham Lincoln: Cazador de vampiros [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmbG2gdA==&id=31015&tit=QWJyYWhhbSBMaW5jb2xuOiBDYXphZG9yIGRlIHZhbXBpcm9z
-#EXTINF:0,[COLOR yellow]Acción Jackson [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Acción Jackson [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqpbm6e&id=30519&tit=QWNjacOzbiBKYWNrc29u
-#EXTINF:0,[COLOR yellow]Acero puro [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Acero puro [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcWyXdA==&id=31630&tit=QWNlcm8gcHVybw==
-#EXTINF:0,[COLOR yellow]Acorralado (Rambo) [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Acorralado (Rambo) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmadw==&id=31372&tit=QWNvcnJhbGFkbyAoUmFtYm8p
-#EXTINF:0,[COLOR yellow]Acorralados [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Acorralados [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mcWegdg==&id=35747&tit=QWNvcnJhbGFkb3M=
-#EXTINF:0,[COLOR yellow]After Earth [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]After Earth [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIynamyYdw==&id=31632&tit=QWZ0ZXIgRWFydGg=
-#EXTINF:0,[COLOR yellow]Agente 007 contra el Dr. No [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Agente 007 contra el Dr. No [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYukcWqb&id=13421&tit=QWdlbnRlIDAwNyBjb250cmEgZWwgRHIuIE5v
+#EXTINF:0,[COLOR yellow]Agente contrainteligente [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poupbWye&id=33412&tit=QWdlbnRlIGNvbnRyYWludGVsaWdlbnRl
+#EXTINF:0,[COLOR yellow]Águila de acero [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYurcW-e&id=29311&tit=w4FndWlsYSBkZSBhY2Vybw==
+#EXTINF:0,[COLOR yellow]Airbag [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGsbGua&id=28872&tit=QWlyYmFn
+#EXTINF:0,[COLOR yellow]Alien vs. Predator [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87322&peli=pIupcXCgeg==&id=31323&tit=QWxpZW4gdnMuIFByZWRhdG9y
+#EXTINF:0,[COLOR yellow]Alien vs. Predator 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42199&peli=po-rbGuf&id=8807&tit=QWxpZW4gdnMuIFByZWRhdG9yIDI=
+#EXTINF:0,[COLOR yellow]Aliens: El regreso [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=qJCoam2a&id=27593&tit=QWxpZW5zOiBFbCByZWdyZXNv
+#EXTINF:0,[COLOR yellow]All Star Superman (Superman viaja al sol) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYytaWeZ&id=34352&tit=QWxsIFN0YXIgU3VwZXJtYW4gKFN1cGVybWFuIHZpYWphIGFsIHNvbCk=
+#EXTINF:0,[COLOR yellow]Alpha [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaWuZdw==&id=34702&tit=QWxwaGE=
+#EXTINF:0,[COLOR yellow]Altitude [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tb2macQ==&id=34659&tit=QWx0aXR1ZGU=
+#EXTINF:0,[COLOR yellow]Amanecer rojo [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qI6ncWma&id=9856&tit=QW1hbmVjZXIgcm9qbw==
+#EXTINF:0,[COLOR yellow]Amor a quemarropa [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raGebeA==&id=31888&tit=QW1vciBhIHF1ZW1hcnJvcGE=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
