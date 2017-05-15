@@ -116,60 +116,82 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mamuXeQ==&id=30149&tit=QXRpbGEsIHJleSBkZSBsb3MgaHVub3M=
 #EXTINF:0,[COLOR blue]Attack The Block [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYylaG-X&id=29342&tit=QXR0YWNrIFRoZSBCbG9jaw==
-#EXTINF:0,[COLOR yellow]Avatar (versión extendida) [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Avatar (versión extendida) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcWyddg==&id=31636&tit=QXZhdGFyICh2ZXJzacOzbiBleHRlbmRpZGEp
-#EXTINF:0,[COLOR yellow]Avatar [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Avatar [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIulbmuZdg==&id=33276&tit=QXZhdGFy
-#EXTINF:0,[COLOR yellow]Batman [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87925&peli=pIurcG6adQ==&id=31190&tit=QmF0bWFu
-#EXTINF:0,[COLOR yellow]Batman & Robin [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman & Robin [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87925&peli=pIurcG6edw==&id=31193&tit=QmF0bWFuICYgUm9iaW4=
-#EXTINF:0,[COLOR yellow]Batman Begins [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman Begins [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=47389&peli=p5Gkb3Cg&id=8711&tit=QmF0bWFuIEJlZ2lucw==
-#EXTINF:0,[COLOR yellow]Batman Forever [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman Forever [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87925&peli=pIurcG-Xdw==&id=31192&tit=QmF0bWFuIEZvcmV2ZXI=
-#EXTINF:0,[COLOR yellow]Batman v. Superman: El amanecer de la Justicia [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman v. Superman: El amanecer de la Justicia [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=pImlamueeQ==&id=12346&tit=QmF0bWFuIHYuIFN1cGVybWFuOiBFbCBhbWFuZWNlciBkZSBsYSBKdXN0aWNpYQ==
-#EXTINF:0,[COLOR yellow]Batman v. Superman: El amanecer de la Justicia [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman v. Superman: El amanecer de la Justicia [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=pousbWmf&id=33416&tit=QmF0bWFuIHYuIFN1cGVybWFuOiBFbCBhbWFuZWNlciBkZSBsYSBKdXN0aWNpYQ==
-#EXTINF:0,[COLOR yellow]Batman: Capucha roja [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman: Capucha roja [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYusaGif&id=29312&tit=QmF0bWFuOiBDYXB1Y2hhIHJvamE=
-#EXTINF:0,[COLOR yellow]Batman: El regreso del Caballero Oscuro, Parte 2 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman: El regreso del Caballero Oscuro, Parte 2 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG-YdA==&id=31189&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlbCBDYWJhbGxlcm8gT3NjdXJvLCBQYXJ0ZSAy
-#EXTINF:0,[COLOR yellow]Batman: La broma asesina [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Batman: La broma asesina [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&peli=q5ClamuY&id=7966&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
-#EXTINF:0,[COLOR yellow]Battleship [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Battleship [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqrbGud&id=30214&tit=QmF0dGxlc2hpcA==
-#EXTINF:0,[COLOR yellow]Bayonetta: Bloody Fate [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Bayonetta: Bloody Fate [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ob2qecQ==&id=30966&tit=QmF5b25ldHRhOiBCbG9vZHkgRmF0ZQ==
-#EXTINF:0,[COLOR yellow]Black Hawk derribado [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Black Hawk derribado [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIusbmybcQ==&id=29291&tit=QmxhY2sgSGF3ayBkZXJyaWJhZG8=
-#EXTINF:0,[COLOR yellow]Black Rain [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Black Rain [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=50456&peli=qZKmcW-g&id=33403&tit=QmxhY2sgUmFpbg==
-#EXTINF:0,[COLOR yellow]Blackhat - Amenaza en la red [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blackhat - Amenaza en la red [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmif&id=12332&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
-#EXTINF:0,[COLOR yellow]Blade Runner [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blade Runner [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIqobmiY&id=12338&tit=QmxhZGUgUnVubmVy
-#EXTINF:0,[COLOR yellow]Blancanieves y la leyenda del cazador [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blancanieves y la leyenda del cazador [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87294&peli=pIupbmuYcg==&id=31339&tit=QmxhbmNhbmlldmVzIHkgbGEgbGV5ZW5kYSBkZWwgY2F6YWRvcg==
-#EXTINF:0,[COLOR yellow]Blanco humano [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blanco humano [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG6XdA==&id=31402&tit=QmxhbmNvIGh1bWFubw==
-#EXTINF:0,[COLOR yellow]Blanco humano 2 [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blanco humano 2 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG2gdg==&id=31403&tit=QmxhbmNvIGh1bWFubyAy
-#EXTINF:0,[COLOR yellow]Blood Father [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Blood Father [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbXCfeg==&id=31837&tit=Qmxvb2QgRmF0aGVy
-#EXTINF:0,[COLOR yellow]BloodRayne [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]BloodRayne [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101963&peli=pI6lbmyccw==&id=33209&tit=Qmxvb2RSYXluZQ==
-#EXTINF:0,[COLOR yellow]Capitán América: Civil War [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Capitán América: Civil War [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87929&peli=pIurcG-gdw==&id=31186&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IENpdmlsIFdhcg==
-#EXTINF:0,[COLOR yellow]Capitán América: El primer vengador [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Capitán América: El primer vengador [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87929&peli=pIurcHCccw==&id=31184&tit=Q2FwaXTDoW4gQW3DqXJpY2E6IEVsIHByaW1lciB2ZW5nYWRvcg==
-#EXTINF:0,[COLOR yellow]Carrera con el diablo [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Carrera con el diablo [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41773&peli=p5Gqa26Z&id=4730&tit=Q2FycmVyYSBjb24gZWwgZGlhYmxv
-#EXTINF:0,[COLOR yellow]Casino Royale [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Casino Royale [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=p42obWqY&id=13442&tit=Q2FzaW5vIFJveWFsZQ==
-#EXTINF:0,[COLOR yellow]Catwoman [/COLOR][COLOR red](HD)[/COLOR]
+#EXTINF:0,[COLOR blue]Catwoman [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcW2ccg==&id=12511&tit=Q2F0d29tYW4=
+#EXTINF:0,[COLOR blue]Caza al asesino [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pomrcWuX&id=5676&tit=Q2F6YSBhbCBhc2VzaW5v
+#EXTINF:0,[COLOR blue]Cazadores de mentes (Mindhunters) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q4ytb26b&id=35738&tit=Q2F6YWRvcmVzIGRlIG1lbnRlcyAoTWluZGh1bnRlcnMp
+#EXTINF:0,[COLOR blue]Cellular [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1MDpoaPMs7bkkc0=&cole=65770&peli=rImnb26c&id=10355&tit=Q2VsbHVsYXI=
+#EXTINF:0,[COLOR blue]Centurión [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIynaWiXdg==&id=31554&tit=Q2VudHVyacOzbg==
+#EXTINF:0,[COLOR blue]Cerdos salvajes (Con un par... de ruedas) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaWybdg==&id=31483&tit=Q2VyZG9zIHNhbHZhamVzIChDb24gdW4gcGFyLi4uIGRlIHJ1ZWRhcyk=
+#EXTINF:0,[COLOR blue]Cobra, el brazo fuerte de la ley [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIynaWiXcw==&id=31522&tit=Q29icmEsIGVsIGJyYXpvIGZ1ZXJ0ZSBkZSBsYSBsZXk=
+
+
+
+
+
+
+
+
+
+
 
 
 
