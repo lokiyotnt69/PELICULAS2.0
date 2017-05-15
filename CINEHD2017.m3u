@@ -292,6 +292,64 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbGqdcQ==&id=35827&tit=RG9zIHBvbGljw61hcyByZWJlbGRlcyBJSQ==
 #EXTINF:0,[COLOR yellow]Dr. Strange (Doctor Extraño) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbWmbcg==&id=31969&tit=RHIuIFN0cmFuZ2UgKERvY3RvciBFeHRyYcOxbyk=
+#EXTINF:0,[COLOR yellow]Dragon Ball Z: Garlick Junior inmortal (Garlic Junior inmortal) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbHCc&id=18820&tit=RHJhZ29uIEJhbGwgWjogR2FybGljayBKdW5pb3IgaW5tb3J0YWwgKEdhcmxpYyBKdW5pb3IgaW5tb3J0YWwp
+#EXTINF:0,[COLOR yellow]Dragon Ball Z: Los tres grandes Super Saiyans [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qI6tcW2Y&id=27321&tit=RHJhZ29uIEJhbGwgWjogTG9zIHRyZXMgZ3JhbmRlcyBTdXBlciBTYWl5YW5z
+#EXTINF:0,[COLOR yellow]Dragon Ball: Aventura mística [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbHCX&id=18821&tit=RHJhZ29uIEJhbGw6IEF2ZW50dXJhIG3DrXN0aWNh
+#EXTINF:0,[COLOR yellow]Dragon Ball: El camino hacia el más fuerte [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbG-g&id=18822&tit=RHJhZ29uIEJhbGw6IEVsIGNhbWlubyBoYWNpYSBlbCBtw6FzIGZ1ZXJ0ZQ==
+#EXTINF:0,[COLOR yellow]Dragon Ball: La bella durmiente en el castillo del mal [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbWiX&id=18823&tit=RHJhZ29uIEJhbGw6IExhIGJlbGxhIGR1cm1pZW50ZSBlbiBlbCBjYXN0aWxsbyBkZWwgbWFs
+#EXTINF:0,[COLOR yellow]Dragon Ball: La leyenda del dragón Xeron [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=42683&peli=qIykbWig&id=18824&tit=RHJhZ29uIEJhbGw6IExhIGxleWVuZGEgZGVsIGRyYWfDs24gWGVyb24=
+#EXTINF:0,[COLOR yellow]Dragon Master [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uoa2mf&id=5643&tit=RHJhZ29uIE1hc3Rlcg==
+#EXTINF:0,[COLOR yellow]Dredd [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcW2gdg==&id=31644&tit=RHJlZGQ=
+#EXTINF:0,[COLOR yellow]Drive [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqscWeZ&id=30300&tit=RHJpdmU=
+#EXTINF:0,[COLOR yellow]Driver [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41991&peli=p5Gsam6Z&id=4981&tit=RHJpdmVy
+#EXTINF:0,[COLOR yellow]Drone Wars [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGsbGyZ&id=30079&tit=RHJvbmUgV2Fycw==
+#EXTINF:0,[COLOR yellow]El amanecer del planeta de los simios [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87292&peli=pIupbW-bdg==&id=31347&tit=RWwgYW1hbmVjZXIgZGVsIHBsYW5ldGEgZGUgbG9zIHNpbWlvcw==
+#EXTINF:0,[COLOR yellow]El caballero oscuro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG-Ycw==&id=31187&tit=RWwgY2FiYWxsZXJvIG9zY3Vybw==
+#EXTINF:0,[COLOR yellow]El caballero oscuro: La leyenda renace [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG6geg==&id=31188&tit=RWwgY2FiYWxsZXJvIG9zY3VybzogTGEgbGV5ZW5kYSByZW5hY2U=
+#EXTINF:0,[COLOR yellow]El cartel de los sapos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKqb2mc&id=28924&tit=RWwgY2FydGVsIGRlIGxvcyBzYXBvcw==
+#EXTINF:0,[COLOR yellow]El caso Bourne [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87767&peli=pIuram-bcQ==&id=31235&tit=RWwgY2FzbyBCb3VybmU=
+#EXTINF:0,[COLOR yellow]El caso Heineken [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6na2-fdw==&id=33460&tit=RWwgY2FzbyBIZWluZWtlbg==
+#EXTINF:0,[COLOR yellow]El castigador (The Punisher) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poqqa2yZ&id=29448&tit=RWwgY2FzdGlnYWRvciAoVGhlIFB1bmlzaGVyKQ==
+#EXTINF:0,[COLOR yellow]El castillo de Cagliostro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95986&peli=pI6lbWiceg==&id=35354&tit=RWwgY2FzdGlsbG8gZGUgQ2FnbGlvc3Rybw==
+#EXTINF:0,[COLOR yellow]El chico de oro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqpcGec&id=30537&tit=RWwgY2hpY28gZGUgb3Jv
+#EXTINF:0,[COLOR yellow]El circo de los extraños [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm-XdA==&id=32946&tit=RWwgY2lyY28gZGUgbG9zIGV4dHJhw7Fvcw==
+#EXTINF:0,[COLOR yellow]El coloso en llamas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pouna2ib&id=3900&tit=RWwgY29sb3NvIGVuIGxsYW1hcw==
+#EXTINF:0,[COLOR yellow]El corredor del laberinto [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87802&peli=pIura2uYdg==&id=3902&tit=RWwgY29ycmVkb3IgZGVsIGxhYmVyaW50bw==
+#EXTINF:0,[COLOR yellow]El corredor del laberinto: Las pruebas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87802&peli=pIura2uacQ==&id=31220&tit=RWwgY29ycmVkb3IgZGVsIGxhYmVyaW50bzogTGFzIHBydWViYXM=
+#EXTINF:0,[COLOR yellow]El de los lentes Carrera 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaGeddQ==&id=34696&tit=RWwgZGUgbG9zIGxlbnRlcyBDYXJyZXJhIDI=
+#EXTINF:0,[COLOR yellow]El desafío de las águilas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW6bdQ==&id=34646&tit=RWwgZGVzYWbDrW8gZGUgbGFzIMOhZ3VpbGFz
+#EXTINF:0,[COLOR yellow]El desconocido [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=477mmaPMtA==&cole=51775&peli=qIynaW-X&id=10197&tit=RWwgZGVzY29ub2NpZG8=
+#EXTINF:0,[COLOR yellow]El destino de Júpiter [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYutaG-X&id=30237&tit=RWwgZGVzdGlubyBkZSBKw7pwaXRlcg==
+#EXTINF:0,[COLOR yellow]El día de mañana [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqtaWic&id=13459&tit=RWwgZMOtYSBkZSBtYcOxYW5h
 
 
 
