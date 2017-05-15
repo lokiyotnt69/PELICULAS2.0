@@ -1,0 +1,16 @@
+#EXTM3U
+
+
+
+
+#EXTINF:0,[COLOR red]              * CINE[/COLOR][COLOR blue] DIABLO [/COLOR] [COLOR white] ACCION [/COLOR] 
+
+
+
+
+#EXTINF:0,[COLOR yellow]...y si no, nos enfadamos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
+#EXTINF:0,[COLOR yellow]007 al servicio secreto de su Majestad [/COLOR][COLOR cyan](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2raGmb&id=13428&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
+#EXTINF:0,[COLOR yellow]10.0 Terremoto en Los Ángeles [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kcWmYeg==&id=32958&tit=MTAuMCBUZXJyZW1vdG8gZW4gTG9zIMOBbmdlbGVz
