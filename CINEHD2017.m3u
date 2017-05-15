@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:0,[COLOR red]              * CINE[/COLOR][COLOR blue] DIABLO [/COLOR] [COLOR white] ACCION [/COLOR] 
+#EXTINF:0,[COLOR red] ******DIABLO 2.0 [/COLOR][COLOR blue] CINE [/COLOR] [COLOR white] ACCION****** [/COLOR] 
 
 
 
@@ -14,3 +14,17 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pY2raGmb&id=13428&tit=MDA3IGFsIHNlcnZpY2lvIHNlY3JldG8gZGUgc3UgTWFqZXN0YWQ=
 #EXTINF:0,[COLOR yellow]10.0 Terremoto en Los Ángeles [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kcWmYeg==&id=32958&tit=MTAuMCBUZXJyZW1vdG8gZW4gTG9zIMOBbmdlbGVz
+#EXTINF:0,[COLOR yellow]12 trampas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbW-a&id=33468&tit=MTIgdHJhbXBhcw==
+#EXTINF:0,[COLOR yellow]12 trampas 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmug&id=33469&tit=MTIgdHJhbXBhcyAy
+#EXTINF:0,[COLOR yellow]13 asesinos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbm2X&id=33466&tit=MTMgYXNlc2lub3M=
+#EXTINF:0,[COLOR yellow]13 Horas: Los soldados secretos de Bengasi [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6tbm-a&id=29337&tit=MTMgSG9yYXM6IExvcyBzb2xkYWRvcyBzZWNyZXRvcyBkZSBCZW5nYXNp
+#EXTINF:0,[COLOR yellow]1997: Rescate en Nueva York [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGicdQ==&id=33473&tit=MTk5NzogUmVzY2F0ZSBlbiBOdWV2YSBZb3Jr
+#EXTINF:0,[COLOR yellow]2 Guns [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmic&id=12341&tit=MiBHdW5z
+#EXTINF:0,[COLOR yellow]2012 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85446&peli=pIunaWyZeg==&id=31500&tit=MjAxMg==
