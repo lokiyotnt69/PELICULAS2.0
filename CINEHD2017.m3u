@@ -182,6 +182,28 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&p
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaWybdg==&id=31483&tit=Q2VyZG9zIHNhbHZhamVzIChDb24gdW4gcGFyLi4uIGRlIHJ1ZWRhcyk=
 #EXTINF:0,[COLOR blue]Cobra, el brazo fuerte de la ley [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIynaWiXcw==&id=31522&tit=Q29icmEsIGVsIGJyYXpvIGZ1ZXJ0ZSBkZSBsYSBsZXk=
+#EXTINF:0,[COLOR yellow]Colisión inminente [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqsbmqf&id=30226&tit=Q29saXNpw7NuIGlubWluZW50ZQ==
+#EXTINF:0,[COLOR yellow]Collateral [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYysb2qc&id=34196&tit=Q29sbGF0ZXJhbA==
+#EXTINF:0,[COLOR yellow]Colombiana [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmsaWee&id=29058&tit=Q29sb21iaWFuYQ==
+#EXTINF:0,[COLOR yellow]Colonia V [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqlcWmdcQ==&id=31024&tit=Q29sb25pYSBW
+#EXTINF:0,[COLOR yellow]Como perros salvajes [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbXCd&id=33932&tit=Q29tbyBwZXJyb3Mgc2FsdmFqZXM=
+#EXTINF:0,[COLOR yellow]Como reinas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4mrcWqc&id=34525&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR yellow]Con Air (Convictos en el aire) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIynaWiYdA==&id=31523&tit=Q29uIEFpciAoQ29udmljdG9zIGVuIGVsIGFpcmUp
+#EXTINF:0,[COLOR yellow]Conan el bárbaro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcGeecg==&id=31555&tit=Q29uYW4gZWwgYsOhcmJhcm8=
+#EXTINF:0,[COLOR yellow]Conan, el bárbaro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42186&peli=po-oaWua&id=4108&tit=Q29uYW4sIGVsIGLDoXJiYXJv
+#EXTINF:0,[COLOR yellow]Conan, el destructor [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87202&peli=pIupam2gdw==&id=31383&tit=Q29uYW4sIGVsIGRlc3RydWN0b3I=
+#EXTINF:0,[COLOR yellow]Conexión Tequila [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85449&peli=pIunaW-Xcw==&id=31107&tit=Q29uZXhpw7NuIFRlcXVpbGE=
 
 
 
