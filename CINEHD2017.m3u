@@ -392,6 +392,28 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qZKm
 plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIunaWmdcQ==&id=31646&tit=RWwgaG9tYnJlIHNpbiBzb21icmE=
 #EXTINF:0,[COLOR yellow]El imperio del fuego [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85451&peli=pI6pcW-bdQ==&id=34169&tit=RWwgaW1wZXJpbyBkZWwgZnVlZ28=
+#EXTINF:0,[COLOR yellow]El increíble Hulk [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87931&peli=pIurcG-deg==&id=12605&tit=RWwgaW5jcmXDrWJsZSBIdWxr
+#EXTINF:0,[COLOR yellow]El juego de Ender [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqta2qa&id=10999&tit=RWwganVlZ28gZGUgRW5kZXI=
+#EXTINF:0,[COLOR yellow]El juego de la justicia [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kam6bdg==&id=32915&tit=RWwganVlZ28gZGUgbGEganVzdGljaWE=
+#EXTINF:0,[COLOR yellow]El legado de Bourne [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87767&peli=pIuramufdQ==&id=31238&tit=RWwgbGVnYWRvIGRlIEJvdXJuZQ==
+#EXTINF:0,[COLOR yellow]El libro de Eli [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIynamyYeA==&id=31648&tit=RWwgbGlicm8gZGUgRWxp
+#EXTINF:0,[COLOR yellow]El Llanero Solitario [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqtbWuc&id=9954&tit=RWwgTGxhbmVybyBTb2xpdGFyaW8=
+#EXTINF:0,[COLOR yellow]El mañana nunca muere [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=ppCqbW2b&id=13439&tit=RWwgbWHDsWFuYSBudW5jYSBtdWVyZQ==
+#EXTINF:0,[COLOR yellow]El maquinista de La General [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbmiZ&id=34229&tit=RWwgbWFxdWluaXN0YSBkZSBMYSBHZW5lcmFs
+#EXTINF:0,[COLOR yellow]El mariachi [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=93485&peli=pI2mamiXdQ==&id=8029&tit=RWwgbWFyaWFjaGk=
+#EXTINF:0,[COLOR yellow]El mensajero [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIyoa2uccw==&id=31530&tit=RWwgbWVuc2FqZXJv
+#EXTINF:0,[COLOR yellow]El mexicano (Once Upon a Time in Mexico) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-pbGea&id=33171&tit=RWwgbWV4aWNhbm8gKE9uY2UgVXBvbiBhIFRpbWUgaW4gTWV4aWNvKQ==
 
 
 
