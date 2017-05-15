@@ -138,6 +138,16 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87926&peli=pIurcG-YdA==&id=31189&tit=QmF0bWFuOiBFbCByZWdyZXNvIGRlbCBDYWJhbGxlcm8gT3NjdXJvLCBQYXJ0ZSAy
 #EXTINF:0,[COLOR yellow]Batman: La broma asesina [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53574&peli=q5ClamuY&id=7966&tit=QmF0bWFuOiBMYSBicm9tYSBhc2VzaW5h
+#EXTINF:0,[COLOR yellow]Battleship [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqrbGud&id=30214&tit=QmF0dGxlc2hpcA==
+#EXTINF:0,[COLOR yellow]Bayonetta: Bloody Fate [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ob2qecQ==&id=30966&tit=QmF5b25ldHRhOiBCbG9vZHkgRmF0ZQ==
+#EXTINF:0,[COLOR yellow]Black Hawk derribado [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIusbmybcQ==&id=29291&tit=QmxhY2sgSGF3ayBkZXJyaWJhZG8=
+#EXTINF:0,[COLOR yellow]Black Rain [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=50456&peli=qZKmcW-g&id=33403&tit=QmxhY2sgUmFpbg==
+#EXTINF:0,[COLOR yellow]Blackhat - Amenaza en la red [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmif&id=12332&tit=QmxhY2toYXQgLSBBbWVuYXphIGVuIGxhIHJlZA==
 
 
 
