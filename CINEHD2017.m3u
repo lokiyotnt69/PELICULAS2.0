@@ -522,6 +522,27 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&p
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6scWqc&id=5638&tit=R2hvc3QgaW4gdGhlIFNoZWxs
 #EXTINF:0,[COLOR yellow]Ghost in the Shell 2.0 [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYynaGuY&id=29364&tit=R2hvc3QgaW4gdGhlIFNoZWxsIDIuMA==
+#EXTINF:0,[COLOR yellow]Ghost in the Shell 2: Innocence [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbGyddg==&id=34913&tit=R2hvc3QgaW4gdGhlIFNoZWxsIDI6IElubm9jZW5jZQ==
+#EXTINF:0,[COLOR yellow]Ghost in the Shell Arise. Border: 4 Ghost Stands Alone [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6lcWqaeg==&id=33102&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDQgR2hvc3QgU3RhbmRzIEFsb25l
+#EXTINF:0,[COLOR yellow]Ghost in the Shell Arise. Border: 3 Ghost Tears [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-lbG2Z&id=33105&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDMgR2hvc3QgVGVhcnM=
+#EXTINF:0,[COLOR yellow]Ghost in the Shell Arise. Border: 1 Ghost Pain [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-lbGeg&id=33096&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDEgR2hvc3QgUGFpbg==
+#EXTINF:0,[COLOR yellow]Ghost in the Shell Arise. Border: 2 Ghost Whispers [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6lcWqadw==&id=33101&tit=R2hvc3QgaW4gdGhlIFNoZWxsIEFyaXNlLiBCb3JkZXI6IDIgR2hvc3QgV2hpc3BlcnM=
+#EXTINF:0,[COLOR yellow]Ghost Rider: Espíritu de venganza [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4brmnZvW&cole=20056&peli=qouocXA=&id=1840&tit=R2hvc3QgUmlkZXI6IEVzcMOtcml0dSBkZSB2ZW5nYW56YQ==
+#EXTINF:0,[COLOR yellow]Gladiator [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIukcHCadA==&id=31568&tit=R2xhZGlhdG9y
+#EXTINF:0,[COLOR yellow]Godzilla [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqtaGiddw==&id=31655&tit=R29kemlsbGE=
+#EXTINF:0,[COLOR yellow]Godzilla [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=95504&peli=pI2tcGybdw==&id=35408&tit=R29kemlsbGE=
+#EXTINF:0,[COLOR yellow]Goldeneye [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=ppCqaGyY&id=13438&tit=R29sZGVuZXll
+
 
 
 
