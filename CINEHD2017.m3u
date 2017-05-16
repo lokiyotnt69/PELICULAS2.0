@@ -588,6 +588,42 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&p
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pZKqbGuY&id=30368&tit=SW1tb3J0YWxz
 #EXTINF:0,[COLOR skyblue]Imparable [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWiceg==&id=31535&tit=SW1wYXJhYmxl
+#EXTINF:0,[COLOR yellow]In Time [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcW-cdQ==&id=31658&tit=SW4gVGltZQ==
+#EXTINF:0,[COLOR yellow]Independence Day [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87466&peli=pIuqaWqeeA==&id=29144&tit=SW5kZXBlbmRlbmNlIERheQ==
+#EXTINF:0,[COLOR yellow]Independence Day [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIulb2qedQ==&id=33297&tit=SW5kZXBlbmRlbmNlIERheQ==
+#EXTINF:0,[COLOR yellow]Independence Day: Contraataque [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=p5GraGuZ&id=30558&tit=SW5kZXBlbmRlbmNlIERheTogQ29udHJhYXRhcXVl
+#EXTINF:0,[COLOR yellow]Indiana Jones y el reino de la calavera de cristal [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87293&peli=pIupbmifdQ==&id=12402&tit=SW5kaWFuYSBKb25lcyB5IGVsIHJlaW5vIGRlIGxhIGNhbGF2ZXJhIGRlIGNyaXN0YWw=
+#EXTINF:0,[COLOR yellow]Indiana Jones y el templo maldito [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87293&peli=pIupbmiccw==&id=28879&tit=SW5kaWFuYSBKb25lcyB5IGVsIHRlbXBsbyBtYWxkaXRv
+#EXTINF:0,[COLOR yellow]Indiana Jones y la última cruzada [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87293&peli=pIupbmifdA==&id=12401&tit=SW5kaWFuYSBKb25lcyB5IGxhIMO6bHRpbWEgY3J1emFkYQ==
+#EXTINF:0,[COLOR yellow]Infiltrados [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbWqXeg==&id=32877&tit=SW5maWx0cmFkb3M=
+#EXTINF:0,[COLOR yellow]Invasión a la Tierra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pImta2-deg==&id=9712&tit=SW52YXNpw7NuIGEgbGEgVGllcnJh
+#EXTINF:0,[COLOR yellow]Ira de Titanes [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87805&peli=pIura2ydcQ==&id=31215&tit=SXJhIGRlIFRpdGFuZXM=
+#EXTINF:0,[COLOR yellow]Iron Man [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87934&peli=pIurcWmadQ==&id=31179&tit=SXJvbiBNYW4=
+#EXTINF:0,[COLOR yellow]Iron Man 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87934&peli=pIurcWmZcw==&id=31180&tit=SXJvbiBNYW4gMg==
+#EXTINF:0,[COLOR yellow]Iron Man 3 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87934&peli=pIurcWmbdg==&id=31181&tit=SXJvbiBNYW4gMw==
+#EXTINF:0,[COLOR yellow]Jack Reacher [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pJGla2iZ&id=5645&tit=SmFjayBSZWFjaGVy
+#EXTINF:0,[COLOR yellow]Jack Reacher: Nunca vuelvas atrás [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2obW-Zeg==&id=30942&tit=SmFjayBSZWFjaGVyOiBOdW5jYSB2dWVsdmFzIGF0csOhcw==
+#EXTINF:0,[COLOR yellow]James Bond contra Goldfinger [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYymaWec&id=13423&tit=SmFtZXMgQm9uZCBjb250cmEgR29sZGZpbmdlcg==
+#EXTINF:0,[COLOR yellow]Jason Bourne [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87767&peli=pIuramyZcg==&id=23545&tit=SmFzb24gQm91cm5l
+#EXTINF:0,[COLOR yellow]John Carter [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22514&peli=pImsb2-c&id=12756&tit=Sm9obiBDYXJ0ZXI=
 
 
 
