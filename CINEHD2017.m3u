@@ -624,6 +624,35 @@ plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87767&peli=pIuramyZcg==&id=23545&tit=SmFzb24gQm91cm5l
 #EXTINF:0,[COLOR yellow]John Carter [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22514&peli=pImsb2-c&id=12756&tit=Sm9obiBDYXJ0ZXI=
+#EXTINF:0,[COLOR yellow]John Rambo (Rambo IV) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmaeQ==&id=31375&tit=Sm9obiBSYW1ibyAoUmFtYm8gSVYp
+#EXTINF:0,[COLOR yellow]John Wick (Otro día para matar) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85449&peli=pI2tbmyXeg==&id=33251&tit=Sm9obiBXaWNrIChPdHJvIGTDrWEgcGFyYSBtYXRhcik=
+#EXTINF:0,[COLOR yellow]Johnny Mnemonic [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqtaGqgeQ==&id=31660&tit=Sm9obm55IE1uZW1vbmlj
+#EXTINF:0,[COLOR yellow]Jonah Hex [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pI2obG-XeA==&id=31433&tit=Sm9uYWggSGV4
+#EXTINF:0,[COLOR yellow]Jóvenes sicarios [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poqpb26Z&id=33426&tit=SsOzdmVuZXMgc2ljYXJpb3M=
+#EXTINF:0,[COLOR yellow]Juego con la muerte (Game of Death) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG-edA==&id=31408&tit=SnVlZ28gY29uIGxhIG11ZXJ0ZSAoR2FtZSBvZiBEZWF0aCk=
+#EXTINF:0,[COLOR yellow]Juego de patriotas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbWeeeg==&id=34929&tit=SnVlZ28gZGUgcGF0cmlvdGFz
+#EXTINF:0,[COLOR yellow]Juez Dredd [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWifdg==&id=31536&tit=SnVleiBEcmVkZA==
+#EXTINF:0,[COLOR yellow]Jungla de cristal III: la venganza [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87768&peli=pIura2iXeQ==&id=31232&tit=SnVuZ2xhIGRlIGNyaXN0YWwgSUlJOiBsYSB2ZW5nYW56YQ==
+#EXTINF:0,[COLOR yellow]Jurassic World [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qY6kaWea&id=30378&tit=SnVyYXNzaWMgV29ybGQ=
+#EXTINF:0,[COLOR yellow]Justice League Dark [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZKoaWeb&id=30151&tit=SnVzdGljZSBMZWFndWUgRGFyaw==
+#EXTINF:0,[COLOR yellow]Kárate a muerte en Bangkok [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG6ecQ==&id=31409&tit=S8OhcmF0ZSBhIG11ZXJ0ZSBlbiBCYW5na29r
+#EXTINF:0,[COLOR yellow]Keanu [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taG6bdA==&id=32507&tit=S2VhbnU=
+#EXTINF:0,[COLOR yellow]Kickboxer [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG6deg==&id=31410&tit=S2lja2JveGVy
+
 
 
 
