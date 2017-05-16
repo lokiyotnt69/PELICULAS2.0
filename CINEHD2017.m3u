@@ -900,6 +900,45 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2obmuZ&id=29462&tit=UGVxdWXDsW9zIGd1ZXJyZXJvcw==
 #EXTINF:0,[COLOR yellow]Persecución extrema [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm2fdg==&id=32938&tit=UGVyc2VjdWNpw7NuIGV4dHJlbWE=
+#EXTINF:0,[COLOR yellow]Persecución extrema 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm-cdw==&id=32951&tit=UGVyc2VjdWNpw7NuIGV4dHJlbWEgMg==
+#EXTINF:0,[COLOR yellow]Persecución extrema 3 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm6acw==&id=32943&tit=UGVyc2VjdWNpw7NuIGV4dHJlbWEgMw==
+#EXTINF:0,[COLOR yellow]Persecución extrema 4 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm-adA==&id=32949&tit=UGVyc2VjdWNpw7NuIGV4dHJlbWEgNA==
+#EXTINF:0,[COLOR yellow]Perseguido [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=104157&peli=pI6tbWygcw==&id=8320&tit=UGVyc2VndWlkbw==
+#EXTINF:0,[COLOR yellow]Piratas del Caribe: El cofre del hombre muerto [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6fcg==&id=31330&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbCBjb2ZyZSBkZWwgaG9tYnJlIG11ZXJ0bw==
+#EXTINF:0,[COLOR yellow]Piratas del Caribe: En el fin del mundo [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6ecQ==&id=31331&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbiBlbCBmaW4gZGVsIG11bmRv
+#EXTINF:0,[COLOR yellow]Piratas del Caribe: En mareas misteriosas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6adg==&id=31332&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbiBtYXJlYXMgbWlzdGVyaW9zYXM=
+#EXTINF:0,[COLOR yellow]Piratas del Caribe: La maldición de la Perla Negra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6bcQ==&id=31329&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBMYSBtYWxkaWNpw7NuIGRlIGxhIFBlcmxhIE5lZ3Jh
+#EXTINF:0,[COLOR yellow]Plan de escape [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWmbdQ==&id=31544&tit=UGxhbiBkZSBlc2NhcGU=
+#EXTINF:0,[COLOR yellow]Poder mental [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qZGmcGqY&id=30024&tit=UG9kZXIgbWVudGFs
+#EXTINF:0,[COLOR yellow]Poli de guardería [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qo6oamia&id=9848&tit=UG9saSBkZSBndWFyZGVyw61h
+#EXTINF:0,[COLOR yellow]Poseidón [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22904&peli=pIqmb2ue&id=12928&tit=UG9zZWlkw7Nu
+#EXTINF:0,[COLOR yellow]Predators [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42199&peli=po-rbGid&id=8808&tit=UHJlZGF0b3Jz
+#EXTINF:0,[COLOR yellow]Pulp Fiction [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2mcXCb&id=5134&tit=UHVscCBGaWN0aW9u
+#EXTINF:0,[COLOR yellow]Punisher 2: Zona de guerra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=x9HVqqPg&cole=61867&peli=qZKqcGuZ&id=7429&tit=UHVuaXNoZXIgMjogWm9uYSBkZSBndWVycmE=
+#EXTINF:0,[COLOR yellow]Quantum of Solace [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=p46ocWee&id=13443&tit=UXVhbnR1bSBvZiBTb2xhY2U=
+#EXTINF:0,[COLOR yellow]Rambo III [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmecg==&id=29341&tit=UmFtYm8gSUlJ
+#EXTINF:0,[COLOR yellow]Rambo: Acorralado Parte II (Rambo 2) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87240&peli=pIupbGmbcQ==&id=8008&tit=UmFtYm86IEFjb3JyYWxhZG8gUGFydGUgSUkgKFJhbWJvIDIp
+#EXTINF:0,[COLOR yellow]Redirected [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrb2yY&id=34329&tit=UmVkaXJlY3RlZA==
+
 
 
 
