@@ -424,6 +424,12 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&p
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85446&peli=pIunaWyXeQ==&id=31504&tit=RWwgbsO6Y2xlbw==
 #EXTINF:0,[COLOR yellow]El origen del planeta de los simios [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87292&peli=pIupbW6XeA==&id=31346&tit=RWwgb3JpZ2VuIGRlbCBwbGFuZXRhIGRlIGxvcyBzaW1pb3M=
+#EXTINF:0,[COLOR yellow]El planeta de los simios [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=68107&peli=q42kanCd&id=7778&tit=RWwgcGxhbmV0YSBkZSBsb3Mgc2ltaW9z
+#EXTINF:0,[COLOR yellow]El portal del guerrero [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6naWqaeg==&id=33206&tit=RWwgcG9ydGFsIGRlbCBndWVycmVybw==
+#EXTINF:0,[COLOR yellow]El principiante [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=45847&peli=qI-saXCd&id=27495&tit=RWwgcHJpbmNpcGlhbnRl
 
 
 
