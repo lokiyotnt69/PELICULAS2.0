@@ -478,6 +478,54 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbWqZdA==&id=4002&tit=RW4gdGllcnJhIGhvc3RpbA==
 #EXTINF:0,[COLOR skyblue]Encerrado [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWideQ==&id=31532&tit=RW5jZXJyYWRv
+#EXTINF:0,[COLOR yellow]Equilibrium [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYymbG2b&id=12335&tit=RXF1aWxpYnJpdW0=
+#EXTINF:0,[COLOR yellow]Eraser (Eliminador) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIyoa2ugcg==&id=31533&tit=RXJhc2VyIChFbGltaW5hZG9yKQ==
+#EXTINF:0,[COLOR yellow]Escuadrón de élite [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbmmbcg==&id=4014&tit=RXNjdWFkcsOzbiBkZSDDqWxpdGU=
+#EXTINF:0,[COLOR yellow]Escuadrón suicida [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI2maWua&id=23094&tit=RXNjdWFkcsOzbiBzdWljaWRh
+#EXTINF:0,[COLOR yellow]Escuadrón suicida (versión extendida) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI2oa2yf&id=30554&tit=RXNjdWFkcsOzbiBzdWljaWRhICh2ZXJzacOzbiBleHRlbmRpZGEp
+#EXTINF:0,[COLOR yellow]Espías en la sombra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qY2scG6a&id=29565&tit=RXNww61hcyBlbiBsYSBzb21icmE=
+#EXTINF:0,[COLOR yellow]Estación polar Cebra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6taG-edw==&id=34613&tit=RXN0YWNpw7NuIHBvbGFyIENlYnJh
+#EXTINF:0,[COLOR yellow]Estallido [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85453&peli=pIunaGeZeg==&id=11251&tit=RXN0YWxsaWRv
+#EXTINF:0,[COLOR yellow]Están vivos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53528&peli=pImqa26Xcw==&id=8289&tit=RXN0w6FuIHZpdm9z
+#EXTINF:0,[COLOR yellow]Eternal [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pZKpb2iZ&id=30342&tit=RXRlcm5hbA==
+#EXTINF:0,[COLOR yellow]Everly [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbGyecQ==&id=4025&tit=RXZlcmx5
+#EXTINF:0,[COLOR yellow]Fast & Furious 5 (A todo gas 5) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWuXeg==&id=31389&tit=RmFzdCAmIEZ1cmlvdXMgNSAoQSB0b2RvIGdhcyA1KQ==
+#EXTINF:0,[COLOR yellow]Fast & Furious 6 (A todo gas 6) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypb2qX&id=12343&tit=RmFzdCAmIEZ1cmlvdXMgNiAoQSB0b2RvIGdhcyA2KQ==
+#EXTINF:0,[COLOR yellow]Fast & Furious 7 (A todo gas 7) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=poqpb2qd&id=30354&tit=RmFzdCAmIEZ1cmlvdXMgNyAoQSB0b2RvIGdhcyA3KQ==
+#EXTINF:0,[COLOR yellow]Fast & Furious: Aún más rápido (A todo gas 4) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87197&peli=pIupaWqgdg==&id=31388&tit=RmFzdCAmIEZ1cmlvdXM6IEHDum4gbcOhcyByw6FwaWRvIChBIHRvZG8gZ2FzIDQp
+#EXTINF:0,[COLOR yellow]Firefox, el arma definitiva [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=56581&peli=q4mpb2qa&id=33497&tit=RmlyZWZveCwgZWwgYXJtYSBkZWZpbml0aXZh
+#EXTINF:0,[COLOR yellow]Fortaleza infernal 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87453&peli=pIuqaGyXcw==&id=31314&tit=Rm9ydGFsZXphIGluZmVybmFsIDI=
+#EXTINF:0,[COLOR yellow]Furia de titanes [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87805&peli=pIura26beg==&id=31214&tit=RnVyaWEgZGUgdGl0YW5lcw==
+#EXTINF:0,[COLOR yellow]Furia Oriental (Fist of Fury) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG6Ydw==&id=31406&tit=RnVyaWEgT3JpZW50YWwgKEZpc3Qgb2YgRnVyeSk=
+#EXTINF:0,[COLOR yellow]G.I. Joe [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=po2tb2ed&id=30356&tit=Ry5JLiBKb2U=
+#EXTINF:0,[COLOR yellow]Ghost in the Shell [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6scWqc&id=5638&tit=R2hvc3QgaW4gdGhlIFNoZWxs
+#EXTINF:0,[COLOR yellow]Ghost in the Shell 2.0 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYynaGuY&id=29364&tit=R2hvc3QgaW4gdGhlIFNoZWxsIDIuMA==
+
+
+
+
 
 
 
