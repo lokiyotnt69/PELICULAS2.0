@@ -468,6 +468,17 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22687&peli=pYmobGec&id=12650&tit=RWwgw7psdGltbyBzYW11csOhaQ==
 #EXTINF:0,[COLOR yellow]El viento y el león [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2rb2iadw==&id=3993&tit=RWwgdmllbnRvIHkgZWwgbGXDs24=
+#EXTINF:0,[COLOR yellow]Elektra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4szXmanIpbbt&cole=22687&peli=pYmobmya&id=12653&tit=RWxla3RyYQ==
+#EXTINF:0,[COLOR yellow]Eliminators [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kaWybeg==&id=34706&tit=RWxpbWluYXRvcnM=
+#EXTINF:0,[COLOR yellow]Elysium [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqmcW6ceA==&id=31651&tit=RWx5c2l1bQ==
+#EXTINF:0,[COLOR yellow]En tierra hostil [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbWqZdA==&id=4002&tit=RW4gdGllcnJhIGhvc3RpbA==
+#EXTINF:0,[COLOR yellow]Encerrado [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIulbWideQ==&id=31532&tit=RW5jZXJyYWRv
+
 
 
 
