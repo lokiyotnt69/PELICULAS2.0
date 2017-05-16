@@ -864,6 +864,42 @@ plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p4uo
 plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53541&peli=pImrcG-cdw==&id=8116&tit=T2PDqWFub3MgZGUgZnVlZ28gKEhpZGFsZ28p
 #EXTINF:0,[COLOR yellow]Octopussy [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGqbmyg&id=13434&tit=T2N0b3B1c3N5
+#EXTINF:0,[COLOR yellow]Operación Chromite [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tbGmfcQ==&id=32873&tit=T3BlcmFjacOzbiBDaHJvbWl0ZQ==
+#EXTINF:0,[COLOR yellow]Operación Swordfish [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY-qbWme&id=5668&tit=T3BlcmFjacOzbiBTd29yZGZpc2g=
+#EXTINF:0,[COLOR yellow]Operación Trueno [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pYyoa22e&id=13424&tit=T3BlcmFjacOzbiBUcnVlbm8=
+#EXTINF:0,[COLOR yellow]Origen [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=84780&peli=pIuncG6YeA==&id=8620&tit=T3JpZ2Vu
+#EXTINF:0,[COLOR yellow]Outlander [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqnaGefdA==&id=31672&tit=T3V0bGFuZGVy
+#EXTINF:0,[COLOR yellow]Pacific Rim [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqnaGifdg==&id=31673&tit=UGFjaWZpYyBSaW0=
+#EXTINF:0,[COLOR yellow]Pan (Viaje a Nunca Jamás) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pZCpaW6d&id=30429&tit=UGFuIChWaWFqZSBhIE51bmNhIEphbcOhcyk=
+#EXTINF:0,[COLOR yellow]Pandora [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbmefeg==&id=34599&tit=UGFuZG9yYQ==
+#EXTINF:0,[COLOR yellow]Pandorum [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85453&peli=pIunaGeXcg==&id=31450&tit=UGFuZG9ydW0=
+#EXTINF:0,[COLOR yellow]Pánico en la calle 110 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaWmedg==&id=35932&tit=UMOhbmljbyBlbiBsYSBjYWxsZSAxMTA=
+#EXTINF:0,[COLOR yellow]Pánico nuclear [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbW-ecw==&id=34935&tit=UMOhbmljbyBudWNsZWFy
+#EXTINF:0,[COLOR yellow]Panorama para matar [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=pZGsamqc&id=13435&tit=UGFub3JhbWEgcGFyYSBtYXRhcg==
+#EXTINF:0,[COLOR yellow]Pasajero 57 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIuobmygdw==&id=31542&tit=UGFzYWplcm8gNTc=
+#EXTINF:0,[COLOR yellow]Paycheck [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIymcGqccQ==&id=31674&tit=UGF5Y2hlY2s=
+#EXTINF:0,[COLOR yellow]Pearl Harbor [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kb2uXdQ==&id=34950&tit=UGVhcmwgSGFyYm9y
+#EXTINF:0,[COLOR yellow]Peligro inminente [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbXCgeA==&id=34937&tit=UGVsaWdybyBpbm1pbmVudGU=
+#EXTINF:0,[COLOR yellow]Pequeños guerreros [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2obmuZ&id=29462&tit=UGVxdWXDsW9zIGd1ZXJyZXJvcw==
+#EXTINF:0,[COLOR yellow]Persecución extrema [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6kbm2fdg==&id=32938&tit=UGVyc2VjdWNpw7NuIGV4dHJlbWE=
 
 
 
