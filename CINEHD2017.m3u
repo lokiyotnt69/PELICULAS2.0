@@ -652,7 +652,14 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taG6bdA==&id=32507&tit=S2VhbnU=
 #EXTINF:0,[COLOR yellow]Kickboxer [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG6deg==&id=31410&tit=S2lja2JveGVy
-
+#EXTINF:0,[COLOR yellow]Kickboxer: Venganza [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-la2eXcQ==&id=35256&tit=S2lja2JveGVyOiBWZW5nYW56YQ==
+#EXTINF:0,[COLOR yellow]Kill Bill: Volumen 1 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=rI6ta2iY&id=9727&tit=S2lsbCBCaWxsOiBWb2x1bWVuIDE=
+#EXTINF:0,[COLOR yellow]Kill Bill: Volumen 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=rI6tbGqf&id=9728&tit=S2lsbCBCaWxsOiBWb2x1bWVuIDI=
+#EXTINF:0,[COLOR yellow]King Kong [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3bzYoZzhsw==&cole=39990&peli=p46na2ee&id=13374&tit=S2luZyBLb25n
 
 
 
