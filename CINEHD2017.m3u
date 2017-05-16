@@ -990,6 +990,28 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87770&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW6ZdA==&id=34645&tit=U2hpbiBHb2R6aWxsYQ==
 #EXTINF:0,[COLOR yellow]Sin City (Ciudad del pecado) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84861&peli=pIurcWycdw==&id=31546&tit=U2luIENpdHkgKENpdWRhZCBkZWwgcGVjYWRvKQ==
+#EXTINF:0,[COLOR yellow]Sin frenos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2ta22adA==&id=32866&tit=U2luIGZyZW5vcw==
+#EXTINF:0,[COLOR yellow]Sin salida [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGqcG2Z&id=33982&tit=U2luIHNhbGlkYQ==
+#EXTINF:0,[COLOR yellow]Skin Trade: Tráfico Humano [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-qcG6X&id=33191&tit=U2tpbiBUcmFkZTogVHLDoWZpY28gSHVtYW5v
+#EXTINF:0,[COLOR yellow]Skyfall [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=27783&peli=p5GpbnCa&id=13444&tit=U2t5ZmFsbA==
+#EXTINF:0,[COLOR yellow]Slammed! [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-namee&id=33151&tit=U2xhbW1lZCE=
+#EXTINF:0,[COLOR yellow]Sniper al límite [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGyYdw==&id=33485&tit=U25pcGVyIGFsIGzDrW1pdGU=
+#EXTINF:0,[COLOR yellow]Sol rojo [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85562&peli=pIuoaGibdg==&id=31447&tit=U29sIHJvam8=
+#EXTINF:0,[COLOR yellow]Soldado universal [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53542&peli=pImtcGmfdQ==&id=8058&tit=U29sZGFkbyB1bml2ZXJzYWw=
+#EXTINF:0,[COLOR yellow]Soldado Universal 4: El juicio final [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87490&peli=pIuqbWygeQ==&id=31294&tit=U29sZGFkbyBVbml2ZXJzYWwgNDogRWwganVpY2lvIGZpbmFs
+#EXTINF:0,[COLOR yellow]Soldado universal. El retorno [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87490&peli=pIuqbW2YeQ==&id=31292&tit=U29sZGFkbyB1bml2ZXJzYWwuIEVsIHJldG9ybm8=
+#EXTINF:0,[COLOR yellow]Soldado universal: Regeneración [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53542&peli=pImtbmuYeQ==&id=8061&tit=U29sZGFkbyB1bml2ZXJzYWw6IFJlZ2VuZXJhY2nDs24=
 
 
 
