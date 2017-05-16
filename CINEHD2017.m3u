@@ -752,6 +752,52 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87935&p
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI6ncGqf&id=23483&tit=TG9zIGFtb3MgZGUgbGEgbm9jaGUgKFRoZSBXYXJyaW9ycyk=
 #EXTINF:0,[COLOR yellow]Los conspiradores [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqmcWeX&id=30404&tit=TG9zIGNvbnNwaXJhZG9yZXM=
+#EXTINF:0,[COLOR yellow]Los hombres libres de Jones [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYunammf&id=29279&tit=TG9zIGhvbWJyZXMgbGlicmVzIGRlIEpvbmVz
+#EXTINF:0,[COLOR yellow]Los increíbles [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmobm-f&id=29008&tit=TG9zIGluY3Jlw61ibGVz
+#EXTINF:0,[COLOR yellow]Los intocables de Eliot Ness [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY6rbGuf&id=29665&tit=TG9zIGludG9jYWJsZXMgZGUgRWxpb3QgTmVzcw==
+#EXTINF:0,[COLOR yellow]Los mercenarios [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupanCeeQ==&id=12855&tit=TG9zIG1lcmNlbmFyaW9z
+#EXTINF:0,[COLOR yellow]Los mercenarios 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupa2edcg==&id=31380&tit=TG9zIG1lcmNlbmFyaW9zIDI=
+#EXTINF:0,[COLOR yellow]Los mercenarios 3 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87230&peli=pIupa2iXdg==&id=12854&tit=TG9zIG1lcmNlbmFyaW9zIDM=
+#EXTINF:0,[COLOR yellow]Los olvidados [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=pY6samqZ&id=5659&tit=TG9zIG9sdmlkYWRvcw==
+#EXTINF:0,[COLOR yellow]Los ríos de color púrpura [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6laWiYdg==&id=32970&tit=TG9zIHLDrW9zIGRlIGNvbG9yIHDDunJwdXJh
+#EXTINF:0,[COLOR yellow]Los siete magníficos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYykaGuY&id=29328&tit=TG9zIHNpZXRlIG1hZ27DrWZpY29z
+#EXTINF:0,[COLOR yellow]Los siete samuráis [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3MLdqpzXtrfgmcLb&cole=63860&peli=q4utam-Z&id=6139&tit=TG9zIHNpZXRlIHNhbXVyw6Fpcw==
+#EXTINF:0,[COLOR yellow]Los sustitutos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=24545&peli=pJCkbm2a&id=11006&tit=TG9zIHN1c3RpdHV0b3M=
+#EXTINF:0,[COLOR yellow]Los tres mosqueteros [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84649&peli=pIunbHCfeQ==&id=31578&tit=TG9zIHRyZXMgbW9zcXVldGVyb3M=
+#EXTINF:0,[COLOR yellow]Los vengadores [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87949&peli=pIurcWudcQ==&id=31175&tit=TG9zIHZlbmdhZG9yZXM=
+#EXTINF:0,[COLOR yellow]Los Vengadores: Justicia y Venganza [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW2gcg==&id=34644&tit=TG9zIFZlbmdhZG9yZXM6IEp1c3RpY2lhIHkgVmVuZ2FuemE=
+#EXTINF:0,[COLOR yellow]Lucy [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81787&peli=pIqtaGefeA==&id=31666&tit=THVjeQ==
+#EXTINF:0,[COLOR yellow]Mad Max 2. El guerrero de la carretera [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbmmZ&id=31377&tit=TWFkIE1heCAyLiBFbCBndWVycmVybyBkZSBsYSBjYXJyZXRlcmE=
+#EXTINF:0,[COLOR yellow]Mad Max 3. Más allá de la cúpula del trueno [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87235&peli=pIupa3CYcw==&id=31378&tit=TWFkIE1heCAzLiBNw6FzIGFsbMOhIGRlIGxhIGPDunB1bGEgZGVsIHRydWVubw==
+#EXTINF:0,[COLOR yellow]Mad Max. Salvajes de autopista [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=54512&peli=qI6paG2d&id=7919&tit=TWFkIE1heC4gU2FsdmFqZXMgZGUgYXV0b3Bpc3Rh
+#EXTINF:0,[COLOR yellow]Mad Max: Furia en la carretera [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=poupaWyY&id=30411&tit=TWFkIE1heDogRnVyaWEgZW4gbGEgY2FycmV0ZXJh
+#EXTINF:0,[COLOR yellow]Mad Max: Furia en la carretera (Black & Chrome) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYqnaGyg&id=34300&tit=TWFkIE1heDogRnVyaWEgZW4gbGEgY2FycmV0ZXJhIChCbGFjayAmIENocm9tZSk=
+#EXTINF:0,[COLOR yellow]Mafia [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmobGqe&id=29006&tit=TWFmaWE=
+#EXTINF:0,[COLOR yellow]Malditos bastardos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIymam6edw==&id=31518&tit=TWFsZGl0b3MgYmFzdGFyZG9z
+#EXTINF:0,[COLOR yellow]Marea negra [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mkb2eg&id=34146&tit=TWFyZWEgbmVncmE=
 
 
 
