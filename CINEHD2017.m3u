@@ -1154,6 +1154,29 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&p
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qI-lbWef&id=30511&tit=VHJhaWNpw7NuIHNpbiBsw61taXRlcw==
 #EXTINF:0,[COLOR yellow]Train to Busan [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qY2lbWec&id=30512&tit=VHJhaW4gdG8gQnVzYW4=
+#EXTINF:0,[COLOR yellow]Training Day (Día de entrenamiento) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qY-ob2yg&id=9920&tit=VHJhaW5pbmcgRGF5IChEw61hIGRlIGVudHJlbmFtaWVudG8p
+#EXTINF:0,[COLOR yellow]Transcendence [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrcWuZ&id=34358&tit=VHJhbnNjZW5kZW5jZQ==
+#EXTINF:0,[COLOR yellow]Transformers [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87845&peli=pIurcGuddg==&id=31202&tit=VHJhbnNmb3JtZXJz
+#EXTINF:0,[COLOR yellow]Transformers: El lado oscuro de la Luna (Transformers 3) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87845&peli=pIurcGudeA==&id=31204&tit=VHJhbnNmb3JtZXJzOiBFbCBsYWRvIG9zY3VybyBkZSBsYSBMdW5hIChUcmFuc2Zvcm1lcnMgMyk=
+#EXTINF:0,[COLOR yellow]Transformers: La era de la extinción [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87845&peli=pIurcGubcw==&id=31205&tit=VHJhbnNmb3JtZXJzOiBMYSBlcmEgZGUgbGEgZXh0aW5jacOzbg==
+#EXTINF:0,[COLOR yellow]Transformers: La película [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbmmX&id=34356&tit=VHJhbnNmb3JtZXJzOiBMYSBwZWzDrWN1bGE=
+#EXTINF:0,[COLOR yellow]Transformers: La venganza de los caídos (Transformers 2) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87845&peli=pIurcGucdg==&id=31203&tit=VHJhbnNmb3JtZXJzOiBMYSB2ZW5nYW56YSBkZSBsb3MgY2HDrWRvcyAoVHJhbnNmb3JtZXJzIDIp
+#EXTINF:0,[COLOR yellow]Transporter [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87244&peli=pIupbWeXdw==&id=31360&tit=VHJhbnNwb3J0ZXI=
+#EXTINF:0,[COLOR yellow]Transporter 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87244&peli=pIupbHCgdg==&id=31361&tit=VHJhbnNwb3J0ZXIgMg==
+#EXTINF:0,[COLOR yellow]Transporter 3 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87244&peli=pIupbWeXeQ==&id=31362&tit=VHJhbnNwb3J0ZXIgMw==
+#EXTINF:0,[COLOR yellow]Transporter Legacy [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pZCrcW2g&id=3431&tit=VHJhbnNwb3J0ZXIgTGVnYWN5
+
 
 
 
