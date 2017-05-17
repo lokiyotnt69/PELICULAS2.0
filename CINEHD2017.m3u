@@ -1112,7 +1112,48 @@ plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW2gdQ==&id=34640&tit=VGhlIEFzaWFuIENvbm5lY3Rpb24=
 #EXTINF:0,[COLOR yellow]The Assassin [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=po6maHCb&id=33443&tit=VGhlIEFzc2Fzc2lu
-
+#EXTINF:0,[COLOR yellow]The Collection [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&peli=pIukbWycdQ==&id=31604&tit=VGhlIENvbGxlY3Rpb24=
+#EXTINF:0,[COLOR yellow]The Colombian Connection [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2sa2maeA==&id=31953&tit=VGhlIENvbG9tYmlhbiBDb25uZWN0aW9u
+#EXTINF:0,[COLOR yellow]The Equalizer (El protector) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY2naGmc&id=34236&tit=VGhlIEVxdWFsaXplciAoRWwgcHJvdGVjdG9yKQ==
+#EXTINF:0,[COLOR yellow]The Grandmaster [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6pammZ&id=29658&tit=VGhlIEdyYW5kbWFzdGVy
+#EXTINF:0,[COLOR yellow]The Guest [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=84230&peli=pIyoaG-geQ==&id=31606&tit=VGhlIEd1ZXN0
+#EXTINF:0,[COLOR yellow]The Italian Job [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYytaWid&id=33184&tit=VGhlIEl0YWxpYW4gSm9i
+#EXTINF:0,[COLOR yellow]The Jackal (Chacal) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6nbmygeg==&id=33849&tit=VGhlIEphY2thbCAoQ2hhY2FsKQ==
+#EXTINF:0,[COLOR yellow]The Mechanic [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=93709&peli=pI2maWyXeQ==&id=31118&tit=VGhlIE1lY2hhbmlj
+#EXTINF:0,[COLOR yellow]The Phantom (El hombre enmascarado) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53549&peli=pIqkbG-dcw==&id=8001&tit=VGhlIFBoYW50b20gKEVsIGhvbWJyZSBlbm1hc2NhcmFkbyk=
+#EXTINF:0,[COLOR yellow]The Veil [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=qYypb3CZ&id=10179&tit=VGhlIFZlaWw=
+#EXTINF:0,[COLOR yellow]The Veil [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmam6bcw==&id=31099&tit=VGhlIFZlaWw=
+#EXTINF:0,[COLOR yellow]Thor [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87968&peli=pIusaWuZeQ==&id=31163&tit=VGhvcg==
+#EXTINF:0,[COLOR yellow]Thor: El mundo oscuro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87968&peli=pIusaWuZeg==&id=13040&tit=VGhvcjogRWwgbXVuZG8gb3NjdXJv
+#EXTINF:0,[COLOR yellow]Thor: Tales of Asgard [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=53575&peli=qI6saGid&id=7927&tit=VGhvcjogVGFsZXMgb2YgQXNnYXJk
+#EXTINF:0,[COLOR yellow]Tierra de guerreros [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIulaGqY&id=30604&tit=VGllcnJhIGRlIGd1ZXJyZXJvcw==
+#EXTINF:0,[COLOR yellow]Timecop, policía en el tiempo [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG-deA==&id=31417&tit=VGltZWNvcCwgcG9saWPDrWEgZW4gZWwgdGllbXBv
+#EXTINF:0,[COLOR yellow]Top Gun (Ídolos del aire) [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85445&peli=pIuqb2uecw==&id=31520&tit=VG9wIEd1biAow41kb2xvcyBkZWwgYWlyZSk=
+#EXTINF:0,[COLOR yellow]Toro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=p42oaGuY&id=5680&tit=VG9ybw==
+#EXTINF:0,[COLOR yellow]Tracers [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qI2pa3CZ&id=9919&tit=VHJhY2Vycw==
+#EXTINF:0,[COLOR yellow]Traición sin límites [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qI-lbWef&id=30511&tit=VHJhaWNpw7NuIHNpbiBsw61taXRlcw==
+#EXTINF:0,[COLOR yellow]Train to Busan [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qY2lbWec&id=30512&tit=VHJhaW4gdG8gQnVzYW4=
 
 
 
