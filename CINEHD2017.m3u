@@ -1062,6 +1062,56 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87494&p
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81180&peli=pIqmamugcg==&id=31088&tit=U3RheSBBbGl2ZQ==
 #EXTINF:0,[COLOR yellow]Sudden Death (Muerte súbita) [/COLOR][COLOR red](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85564&peli=pIunbG-edw==&id=31416&tit=U3VkZGVuIERlYXRoIChNdWVydGUgc8O6Yml0YSk=
+#EXTINF:0,[COLOR yellow]Superdetective en Hollywood [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88125&peli=pIusbWecdA==&id=7779&tit=U3VwZXJkZXRlY3RpdmUgZW4gSG9sbHl3b29k
+#EXTINF:0,[COLOR yellow]Superdetective en Hollywood II [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88125&peli=pIusbWecdw==&id=31137&tit=U3VwZXJkZXRlY3RpdmUgZW4gSG9sbHl3b29kIElJ
+#EXTINF:0,[COLOR yellow]Superdetective en Hollywood III [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=88125&peli=pIusbWeccw==&id=31138&tit=U3VwZXJkZXRlY3RpdmUgZW4gSG9sbHl3b29kIElJSQ==
+#EXTINF:0,[COLOR yellow]Superman Returns: El regreso [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrbm-c&id=9891&tit=U3VwZXJtYW4gUmV0dXJuczogRWwgcmVncmVzbw==
+#EXTINF:0,[COLOR yellow]Superman: Sin límites [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmcWmY&id=29150&tit=U3VwZXJtYW46IFNpbiBsw61taXRlcw==
+#EXTINF:0,[COLOR yellow]Tambores lejanos [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKlaGue&id=34020&tit=VGFtYm9yZXMgbGVqYW5vcw==
+#EXTINF:0,[COLOR yellow]Tango y Cash [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaWyecg==&id=31495&tit=VGFuZ28geSBDYXNo
+#EXTINF:0,[COLOR yellow]Taxi 2 [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGtaGea&id=34003&tit=VGF4aSAy
+#EXTINF:0,[COLOR yellow]Teen Titans: The Judas Contract [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-obXCccw==&id=35978&tit=VGVlbiBUaXRhbnM6IFRoZSBKdWRhcyBDb250cmFjdA==
+#EXTINF:0,[COLOR yellow]Temblores [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81070&peli=pIqlcGecdQ==&id=31695&tit=VGVtYmxvcmVz
+#EXTINF:0,[COLOR yellow]Temblores 2: La respuesta [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81070&peli=pIqlcGeceA==&id=31696&tit=VGVtYmxvcmVzIDI6IExhIHJlc3B1ZXN0YQ==
+#EXTINF:0,[COLOR yellow]Temblores 3: Regreso a Perfección [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81070&peli=pIqlcGeZcQ==&id=31697&tit=VGVtYmxvcmVzIDM6IFJlZ3Jlc28gYSBQZXJmZWNjacOzbg==
+#EXTINF:0,[COLOR yellow]Temblores 4: Comienza la leyenda [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81070&peli=pIqlcGeZdQ==&id=31698&tit=VGVtYmxvcmVzIDQ6IENvbWllbnphIGxhIGxleWVuZGE=
+#EXTINF:0,[COLOR yellow]Temblores 5: El legado [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=81070&peli=pIqlcGegeQ==&id=31699&tit=VGVtYmxvcmVzIDU6IEVsIGxlZ2Fkbw==
+#EXTINF:0,[COLOR yellow]Terminator [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pomqbW2X&id=3389&tit=VGVybWluYXRvcg==
+#EXTINF:0,[COLOR yellow]Terminator 2: el juicio final [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qJGrbGig&id=28668&tit=VGVybWluYXRvciAyOiBlbCBqdWljaW8gZmluYWw=
+#EXTINF:0,[COLOR yellow]Terminator 3: La rebelión de las máquinas [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=42279&peli=ppCpa2me&id=8799&tit=VGVybWluYXRvciAzOiBMYSByZWJlbGnDs24gZGUgbGFzIG3DoXF1aW5hcw==
+#EXTINF:0,[COLOR yellow]Terminator Génesis [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pompb2qf&id=30465&tit=VGVybWluYXRvciBHw6luZXNpcw==
+#EXTINF:0,[COLOR yellow]Terminator Salvation [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=pomsbWeg&id=30464&tit=VGVybWluYXRvciBTYWx2YXRpb24=
+#EXTINF:0,[COLOR yellow]Terra Formars [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGlbmug&id=33940&tit=VGVycmEgRm9ybWFycw==
+#EXTINF:0,[COLOR yellow]The Amazing Spider-Man [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87967&peli=pIusaWuZeA==&id=7437&tit=VGhlIEFtYXppbmcgU3BpZGVyLU1hbg==
+#EXTINF:0,[COLOR yellow]The Amazing Spider-Man 2: El poder de Electro [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87967&peli=pIusaWuZcw==&id=31166&tit=VGhlIEFtYXppbmcgU3BpZGVyLU1hbiAyOiBFbCBwb2RlciBkZSBFbGVjdHJv
+#EXTINF:0,[COLOR yellow]The Answer [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qY6rbHCf&id=34411&tit=VGhlIEFuc3dlcg==
+#EXTINF:0,[COLOR yellow]The Asian Connection [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tbW2gdQ==&id=34640&tit=VGhlIEFzaWFuIENvbm5lY3Rpb24=
+#EXTINF:0,[COLOR yellow]The Assassin [/COLOR][COLOR red](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=po6maHCb&id=33443&tit=VGhlIEFzc2Fzc2lu
 
 
 
