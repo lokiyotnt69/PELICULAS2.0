@@ -233,6 +233,20 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&p
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2samybdA==&id=31949&tit=Q3VhdHJvIGJvZGFzIHkgdW4gZnVuZXJhbA==
 #EXTINF:0,[COLOR gold]Cuerpo de élite [/COLOR][COLOR skyblue](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2oaG-b&id=29458&tit=Q3VlcnBvIGRlIMOpbGl0ZQ==
+#EXTINF:0,[COLOR gold]Cuerpos especiales [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY-lbnCa&id=29696&tit=Q3VlcnBvcyBlc3BlY2lhbGVz
+#EXTINF:0,[COLOR gold]Dama por un día [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6taWmdeg==&id=34621&tit=RGFtYSBwb3IgdW4gZMOtYQ==
+#EXTINF:0,[COLOR gold]David Brent: Life on the Road [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qa2meeQ==&id=31800&tit=RGF2aWQgQnJlbnQ6IExpZmUgb24gdGhlIFJvYWQ=
+#EXTINF:0,[COLOR gold]De ladrón a policía [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qZCoamie&id=29896&tit=RGUgbGFkcsOzbiBhIHBvbGljw61h
+#EXTINF:0,[COLOR gold]Deadpool [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=vr7isqaYdQ==&cole=22902&peli=pYqraGqb&id=12426&tit=RGVhZHBvb2w=
+#EXTINF:0,[COLOR gold]Deathgasm [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vrrmpJjLhA==&cole=58737&peli=pImka2eZeQ==&id=10096&tit=RGVhdGhnYXNt
+#EXTINF:0,[COLOR gold]Delicatessen [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=56581&peli=q4qpbGyc&id=33493&tit=RGVsaWNhdGVzc2Vu
 
 
 
