@@ -2,103 +2,121 @@
 
 
 
-#EXTINF:0,[COLOR gold] **[/COLOR](500) Días juntos [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42ka2iX&id=35742&tit=KDUwMCkgRMOtYXMganVudG9z
-#EXTINF:0,[COLOR gold] **[/COLOR][COLOR gold]...y si no, nos enfadamos [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
-#EXTINF:0,[COLOR gold] **[/COLOR][COLOR gold]...y si no, nos enfadamos [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
-#EXTINF:0,[COLOR gold]10, la mujer perfecta [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGyXeA==&id=29940&tit=MTAsIGxhIG11amVyIHBlcmZlY3Rh
-#EXTINF:0,[COLOR gold]100 metros [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-kaG-c&id=33086&tit=MTAwIG1ldHJvcw==
-#EXTINF:0,[COLOR gold]101 Dálmatas 2 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqra22b&id=29195&tit=MTAxIETDoWxtYXRhcyAy
-#EXTINF:0,[COLOR gold]2 Guns [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmic&id=12341&tit=MiBHdW5z
-#EXTINF:0,[COLOR gold]22 Balas (El inmortal) [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqocW-c&id=30201&tit=MjIgQmFsYXMgKEVsIGlubW9ydGFsKQ==
-#EXTINF:0,[COLOR gold]24 Hour Party People [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbmmedg==&id=35856&tit=MjQgSG91ciBQYXJ0eSBQZW9wbGU=
-#EXTINF:0,[COLOR gold]3 bodas de más [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaG2f&id=28866&tit=MyBib2RhcyBkZSBtw6Fz
-#EXTINF:0,[COLOR gold]3 generaciones [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYuncGif&id=29286&tit=MyBnZW5lcmFjaW9uZXM=
-#EXTINF:0,[COLOR gold]5 to 7 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tcG6bcg==&id=34678&tit=NSB0byA3
-#EXTINF:0,[COLOR gold]Abbott y Costello contra los fantasmas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2na22d&id=23115&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxvcyBmYW50YXNtYXM=
-#EXTINF:0,[COLOR gold]Absolutamente fabulosas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6naWyc&id=29622&tit=QWJzb2x1dGFtZW50ZSBmYWJ1bG9zYXM=
-#EXTINF:0,[COLOR gold]Academia Rushmore [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmb2qa&id=29145&tit=QWNhZGVtaWEgUnVzaG1vcmU=
-#EXTINF:0,[COLOR gold]Ace Ventura, un detective diferente [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaWybdw==&id=31479&tit=QWNlIFZlbnR1cmEsIHVuIGRldGVjdGl2ZSBkaWZlcmVudGU=
-#EXTINF:0,[COLOR gold]Ace Ventura: Operación África [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaW6ddA==&id=31478&tit=QWNlIFZlbnR1cmE6IE9wZXJhY2nDs24gw4FmcmljYQ==
-#EXTINF:0,[COLOR gold]Agárralo como puedas 2 y 1/2 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mlaGia&id=34150&tit=QWfDoXJyYWxvIGNvbW8gcHVlZGFzIDIgeSAxLzI=
-#EXTINF:0,[COLOR gold]Agárrame esos fantasmas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pI6lb2uYeg==&id=33254&tit=QWfDoXJyYW1lIGVzb3MgZmFudGFzbWFz
-#EXTINF:0,[COLOR gold]Agente contrainteligente [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poupbWye&id=33412&tit=QWdlbnRlIGNvbnRyYWludGVsaWdlbnRl
-#EXTINF:0,[COLOR gold]Ahí va ese bólido [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=50456&peli=qZGtaGef&id=33402&tit=QWjDrSB2YSBlc2UgYsOzbGlkbw==
-#EXTINF:0,[COLOR gold]Ahora los padres son ellos [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87626&peli=pIuraWyacw==&id=31258&tit=QWhvcmEgbG9zIHBhZHJlcyBzb24gZWxsb3M=
-#EXTINF:0,[COLOR gold]Ahora me ves 2 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGsamug&id=30520&tit=QWhvcmEgbWUgdmVzIDI=
-#EXTINF:0,[COLOR gold]Airbag [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGsbGua&id=28872&tit=QWlyYmFn
-#EXTINF:0,[COLOR gold]Al filo de la noticia [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbm-eeA==&id=35862&tit=QWwgZmlsbyBkZSBsYSBub3RpY2lh
-#EXTINF:0,[COLOR gold]Al fin solos [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIyscGmd&id=11281&tit=QWwgZmluIHNvbG9z
-#EXTINF:0,[COLOR gold]Algo pasa con Mary (versión extendida) [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=24544&peli=pI6oamie&id=11022&tit=QWxnbyBwYXNhIGNvbiBNYXJ5ICh2ZXJzacOzbiBleHRlbmRpZGEp
-#EXTINF:0,[COLOR gold]Ali G anda suelto [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mamiXdQ==&id=35665&tit=QWxpIEcgYW5kYSBzdWVsdG8=
-#EXTINF:0,[COLOR gold]Almost Christmas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbmuYdw==&id=35719&tit=QWxtb3N0IENocmlzdG1hcw==
-#EXTINF:0,[COLOR gold]Amanece, que no es poco [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sa3CfeQ==&id=34543&tit=QW1hbmVjZSwgcXVlIG5vIGVzIHBvY28=
-#EXTINF:0,[COLOR gold]American Beauty [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pIqlbGqcdg==&id=9537&tit=QW1lcmljYW4gQmVhdXR5
-#EXTINF:0,[COLOR gold]American Graffiti [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2naGqcdw==&id=30736&tit=QW1lcmljYW4gR3JhZmZpdGk=
-#EXTINF:0,[COLOR gold]Amor a segunda vista [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Glamya&id=4371&tit=QW1vciBhIHNlZ3VuZGEgdmlzdGE=
-#EXTINF:0,[COLOR gold]Amor en conserva [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2ncWyYcg==&id=28881&tit=QW1vciBlbiBjb25zZXJ2YQ==
-#EXTINF:0,[COLOR gold]Amor sin cita previa [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poqnbG-Y&id=33413&tit=QW1vciBzaW4gY2l0YSBwcmV2aWE=
-#EXTINF:0,[COLOR gold]Amor y amistad [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGmb2ed&id=33950&tit=QW1vciB5IGFtaXN0YWQ=
-#EXTINF:0,[COLOR gold]Amor zombie [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kcG6acw==&id=34993&tit=QW1vciB6b21iaWU=
-#EXTINF:0,[COLOR gold]Angry Birds, la película [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmmZ&id=33470&tit=QW5ncnkgQmlyZHMsIGxhIHBlbMOtY3VsYQ==
-#EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
-#EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
-#EXTINF:0,[COLOR gold]Ant-Man [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYyoa2yf&id=12345&tit=QW50LU1hbg==
-#EXTINF:0,[COLOR gold]Aquí y ahora [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbW2gdA==&id=34605&tit=QXF1w60geSBhaG9yYQ==
-#EXTINF:0,[COLOR gold]Arcadia [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-ncWegcw==&id=35900&tit=QXJjYWRpYQ==
-#EXTINF:0,[COLOR gold]Arizona Baby [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6qbWqY&id=33027&tit=QXJpem9uYSBCYWJ5
-#EXTINF:0,[COLOR gold]Arma fatal [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-laWuXcQ==&id=35150&tit=QXJtYSBmYXRhbA==
-#EXTINF:0,[COLOR gold]Arma letal 4 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=64773&peli=qpCqbnCf&id=7798&tit=QXJtYSBsZXRhbCA0
-#EXTINF:0,[COLOR gold]Armas de mujer [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbG6XeA==&id=35837&tit=QXJtYXMgZGUgbXVqZXI=
-#EXTINF:0,[COLOR gold]Arsénico por compasión [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKrcG-X&id=34112&tit=QXJzw6luaWNvIHBvciBjb21wYXNpw7Nu
 
+
+
+#EXTINF:0,[COLOR gold] DIABLO2.0 [/COLOR][COLOR skyblue](500) Días juntos [/COLOR] [COLOR skyblue] [COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42ka2iX&id=35742&tit=KDUwMCkgRMOtYXMganVudG9z
+#EXTINF:0,[COLOR gold] DIABLO2.0 [/COLOR][COLOR gold]...y si no, nos enfadamos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
+#EXTINF:0,[COLOR gold] DIABLO2.0 [/COLOR][COLOR gold]...y si no, nos enfadamos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbWyfeg==&id=30675&tit=Li4ueSBzaSBubywgbm9zIGVuZmFkYW1vcw==
+#EXTINF:0,[COLOR gold]10, la mujer perfecta [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGyXeA==&id=29940&tit=MTAsIGxhIG11amVyIHBlcmZlY3Rh
+#EXTINF:0,[COLOR gold]100 metros [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-kaG-c&id=33086&tit=MTAwIG1ldHJvcw==
+#EXTINF:0,[COLOR gold]101 Dálmatas 2 [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqra22b&id=29195&tit=MTAxIETDoWxtYXRhcyAy
+#EXTINF:0,[COLOR gold]2 Guns [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmic&id=12341&tit=MiBHdW5z
+#EXTINF:0,[COLOR gold]22 Balas (El inmortal) [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqocW-c&id=30201&tit=MjIgQmFsYXMgKEVsIGlubW9ydGFsKQ==
+#EXTINF:0,[COLOR gold]24 Hour Party People [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbmmedg==&id=35856&tit=MjQgSG91ciBQYXJ0eSBQZW9wbGU=
+#EXTINF:0,[COLOR gold]3 bodas de más [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaG2f&id=28866&tit=MyBib2RhcyBkZSBtw6Fz
+#EXTINF:0,[COLOR gold]3 generaciones [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYuncGif&id=29286&tit=MyBnZW5lcmFjaW9uZXM=
+#EXTINF:0,[COLOR gold]5 to 7 [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tcG6bcg==&id=34678&tit=NSB0byA3
+#EXTINF:0,[COLOR gold]Abbott y Costello contra los fantasmas [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2na22d&id=23115&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxvcyBmYW50YXNtYXM=
+#EXTINF:0,[COLOR gold]Absolutamente fabulosas [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6naWyc&id=29622&tit=QWJzb2x1dGFtZW50ZSBmYWJ1bG9zYXM=
+#EXTINF:0,[COLOR gold]Academia Rushmore [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmb2qa&id=29145&tit=QWNhZGVtaWEgUnVzaG1vcmU=
+#EXTINF:0,[COLOR gold]Ace Ventura, un detective diferente [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaWybdw==&id=31479&tit=QWNlIFZlbnR1cmEsIHVuIGRldGVjdGl2ZSBkaWZlcmVudGU=
+#EXTINF:0,[COLOR gold]Ace Ventura: Operación África [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIunaW6ddA==&id=31478&tit=QWNlIFZlbnR1cmE6IE9wZXJhY2nDs24gw4FmcmljYQ==
+#EXTINF:0,[COLOR gold]Agárralo como puedas 2 y 1/2 [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mlaGia&id=34150&tit=QWfDoXJyYWxvIGNvbW8gcHVlZGFzIDIgeSAxLzI=
+#EXTINF:0,[COLOR gold]Agárrame esos fantasmas [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pI6lb2uYeg==&id=33254&tit=QWfDoXJyYW1lIGVzb3MgZmFudGFzbWFz
+#EXTINF:0,[COLOR gold]Agente contrainteligente [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poupbWye&id=33412&tit=QWdlbnRlIGNvbnRyYWludGVsaWdlbnRl
+#EXTINF:0,[COLOR gold]Ahí va ese bólido [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=50456&peli=qZGtaGef&id=33402&tit=QWjDrSB2YSBlc2UgYsOzbGlkbw==
+#EXTINF:0,[COLOR gold]Ahora los padres son ellos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87626&peli=pIuraWyacw==&id=31258&tit=QWhvcmEgbG9zIHBhZHJlcyBzb24gZWxsb3M=
+#EXTINF:0,[COLOR gold]Ahora me ves 2 [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGsamug&id=30520&tit=QWhvcmEgbWUgdmVzIDI=
+#EXTINF:0,[COLOR gold]Airbag [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qZGsbGua&id=28872&tit=QWlyYmFn
+#EXTINF:0,[COLOR gold]Al filo de la noticia [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbm-eeA==&id=35862&tit=QWwgZmlsbyBkZSBsYSBub3RpY2lh
+#EXTINF:0,[COLOR gold]Al fin solos [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w7rYqqA=&cole=23818&peli=pIyscGmd&id=11281&tit=QWwgZmluIHNvbG9z
+#EXTINF:0,[COLOR gold]Algo pasa con Mary (versión extendida) [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=vb7qoZjbqbbi&cole=24544&peli=pI6oamie&id=11022&tit=QWxnbyBwYXNhIGNvbiBNYXJ5ICh2ZXJzacOzbiBleHRlbmRpZGEp
+#EXTINF:0,[COLOR gold]Ali G anda suelto [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mamiXdQ==&id=35665&tit=QWxpIEcgYW5kYSBzdWVsdG8=
+#EXTINF:0,[COLOR gold]Almost Christmas [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbmuYdw==&id=35719&tit=QWxtb3N0IENocmlzdG1hcw==
+#EXTINF:0,[COLOR gold]Amanece, que no es poco [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sa3CfeQ==&id=34543&tit=QW1hbmVjZSwgcXVlIG5vIGVzIHBvY28=
+#EXTINF:0,[COLOR gold]American Beauty [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=pIqlbGqcdg==&id=9537&tit=QW1lcmljYW4gQmVhdXR5
+#EXTINF:0,[COLOR gold]American Graffiti [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2naGqcdw==&id=30736&tit=QW1lcmljYW4gR3JhZmZpdGk=
+#EXTINF:0,[COLOR gold]Amor a segunda vista [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Glamya&id=4371&tit=QW1vciBhIHNlZ3VuZGEgdmlzdGE=
+#EXTINF:0,[COLOR gold]Amor en conserva [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2ncWyYcg==&id=28881&tit=QW1vciBlbiBjb25zZXJ2YQ==
+#EXTINF:0,[COLOR gold]Amor sin cita previa [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=poqnbG-Y&id=33413&tit=QW1vciBzaW4gY2l0YSBwcmV2aWE=
+#EXTINF:0,[COLOR gold]Amor y amistad [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpGmb2ed&id=33950&tit=QW1vciB5IGFtaXN0YWQ=
+#EXTINF:0,[COLOR gold]Amor zombie [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kcG6acw==&id=34993&tit=QW1vciB6b21iaWU=
+#EXTINF:0,[COLOR gold]Angry Birds, la película [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmmZ&id=33470&tit=QW5ncnkgQmlyZHMsIGxhIHBlbMOtY3VsYQ==
+#EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
+#EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
+#EXTINF:0,[COLOR gold]Ant-Man [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYyoa2yf&id=12345&tit=QW50LU1hbg==
+#EXTINF:0,[COLOR gold]Aquí y ahora [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbW2gdA==&id=34605&tit=QXF1w60geSBhaG9yYQ==
+#EXTINF:0,[COLOR gold]Arcadia [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-ncWegcw==&id=35900&tit=QXJjYWRpYQ==
+#EXTINF:0,[COLOR gold]Arizona Baby [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6qbWqY&id=33027&tit=QXJpem9uYSBCYWJ5
+#EXTINF:0,[COLOR gold]Arma fatal [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-laWuXcQ==&id=35150&tit=QXJtYSBmYXRhbA==
+#EXTINF:0,[COLOR gold]Arma letal 4 [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=64773&peli=qpCqbnCf&id=7798&tit=QXJtYSBsZXRhbCA0
+#EXTINF:0,[COLOR gold]Armas de mujer [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbG6XeA==&id=35837&tit=QXJtYXMgZGUgbXVqZXI=
+#EXTINF:0,[COLOR gold]Arsénico por compasión [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKrcG-X&id=34112&tit=QXJzw6luaWNvIHBvciBjb21wYXNpw7Nu
+#EXTINF:0,[COLOR gold]Astérix el Galo [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2ocWic&id=29482&tit=QXN0w6lyaXggZWwgR2Fsbw==
+#EXTINF:0,[COLOR gold]Astérix en América [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2paWiZ&id=29483&tit=QXN0w6lyaXggZW4gQW3DqXJpY2E=
+#EXTINF:0,[COLOR gold]Astérix en Bretaña [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2paWyf&id=29487&tit=QXN0w6lyaXggZW4gQnJldGHDsWE=
+#EXTINF:0,[COLOR gold]Astérix y Cleopatra [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2ocW2e&id=29481&tit=QXN0w6lyaXggeSBDbGVvcGF0cmE=
+#EXTINF:0,[COLOR gold]Astérix y la sorpresa del César [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2paWmg&id=29488&tit=QXN0w6lyaXggeSBsYSBzb3JwcmVzYSBkZWwgQ8Opc2Fy
+#EXTINF:0,[COLOR gold]Astérix y Obélix contra César [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87625&peli=pIuraWuadA==&id=31259&tit=QXN0w6lyaXggeSBPYsOpbGl4IGNvbnRyYSBDw6lzYXI=
+#EXTINF:0,[COLOR gold]Astérix y Obélix: Al servicio de Su Majestad [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87625&peli=pIuraWubcw==&id=31262&tit=QXN0w6lyaXggeSBPYsOpbGl4OiBBbCBzZXJ2aWNpbyBkZSBTdSBNYWplc3RhZA==
+#EXTINF:0,[COLOR gold]Astérix y Obélix: Misión Cleopatra [/COLOR][COLOR skyblue](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87625&peli=pIuraWuadg==&id=31260&tit=QXN0w6lyaXggeSBPYsOpbGl4OiBNaXNpw7NuIENsZW9wYXRyYQ==
 
 
 
