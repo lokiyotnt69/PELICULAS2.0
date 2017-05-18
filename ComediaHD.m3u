@@ -321,6 +321,34 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qYqsaWme&id=30489&tit=RWwgZ3VhcmRpw6FuIGRlIGxhcyBwYWxhYnJhcw==
 #EXTINF:0,[COLOR gold]El guateque [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqsbGyX&id=29211&tit=RWwgZ3VhdGVxdWU=
+#EXTINF:0,[COLOR gold]El hombre tranquilo [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2raGme&id=5791&tit=RWwgaG9tYnJlIHRyYW5xdWlsbw==
+#EXTINF:0,[COLOR gold]La terminal [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=68752&peli=pI6kbmqYdA==&id=33320&tit=TGEgdGVybWluYWw=
+#EXTINF:0,[COLOR gold]La tonta del bote [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=wL7bmWk=&cole=26225&peli=pIylaG2ddQ==&id=32708&tit=TGEgdG9udGEgZGVsIGJvdGU=
+#EXTINF:0,[COLOR gold]La última fiesta [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2ncWqZcw==&id=30884&tit=TGEgw7psdGltYSBmaWVzdGE=
+#EXTINF:0,[COLOR gold]La vaca [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2sa2ycdA==&id=31961&tit=TGEgdmFjYQ==
+#EXTINF:0,[COLOR gold]La vida es bella [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYulbW2d&id=3721&tit=TGEgdmlkYSBlcyBiZWxsYQ==
+#EXTINF:0,[COLOR gold]La vida secreta de Walter Mitty [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85447&peli=pIynanCgeA==&id=31488&tit=TGEgdmlkYSBzZWNyZXRhIGRlIFdhbHRlciBNaXR0eQ==
+#EXTINF:0,[COLOR gold]Las apariencias engañan [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpGtbG6b&id=34009&tit=TGFzIGFwYXJpZW5jaWFzIGVuZ2HDsWFu
+#EXTINF:0,[COLOR gold]Las aventuras de Peabody y Sherman [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYyrcWyX&id=34285&tit=TGFzIGF2ZW50dXJhcyBkZSBQZWFib2R5IHkgU2hlcm1hbg==
+#EXTINF:0,[COLOR gold]Las aventuras de Tadeo Jones [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&peli=pIylcGiZcw==&id=31397&tit=TGFzIGF2ZW50dXJhcyBkZSBUYWRlbyBKb25lcw==
+#EXTINF:0,[COLOR gold]Las brujas de Eastwick [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2raHCfcg==&id=3727&tit=TGFzIGJydWphcyBkZSBFYXN0d2ljaw==
+#EXTINF:0,[COLOR gold]Las doce pruebas de Astérix [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY2paWma&id=29484&tit=TGFzIGRvY2UgcHJ1ZWJhcyBkZSBBc3TDqXJpeA==
+#EXTINF:0,[COLOR gold]Las invasiones bárbaras [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY-lb3CY&id=29687&tit=TGFzIGludmFzaW9uZXMgYsOhcmJhcmFz
+#EXTINF:0,[COLOR gold]Las nuevas aventuras de Caperucita Roja [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42mcG2b&id=35791&tit=TGFzIG51ZXZhcyBhdmVudHVyYXMgZGUgQ2FwZXJ1Y2l0YSBSb2ph
 
 
 
