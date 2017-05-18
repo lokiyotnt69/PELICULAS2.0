@@ -203,6 +203,13 @@ plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=85645&p
 plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=45486&peli=qI6sbGmb&id=30483&tit=Q29tbyBEaW9z
 #EXTINF:0,[COLOR gold]Como reinas [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=q4mrcWqc&id=34525&tit=Q29tbyByZWluYXM=
+#EXTINF:0,[COLOR gold]Cómo ser John Malkovich [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI6nbm-cdA==&id=33855&tit=Q8OzbW8gc2VyIEpvaG4gTWFsa292aWNo
+#EXTINF:0,[COLOR gold]Con faldas y a lo loco [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47255&peli=p42tcGmc&id=6030&tit=Q29uIGZhbGRhcyB5IGEgbG8gbG9jbw==
+#EXTINF:0,[COLOR gold]Conexión Estambul (TV) [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbGydeg==&id=34912&tit=Q29uZXhpw7NuIEVzdGFtYnVsIChUVik=
+
 
 
 
