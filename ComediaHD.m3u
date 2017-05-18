@@ -209,6 +209,28 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=cp&user=5brfnaOcdA==&cole=47255&peli=p42tcGmc&id=6030&tit=Q29uIGZhbGRhcyB5IGEgbG8gbG9jbw==
 #EXTINF:0,[COLOR gold]Conexión Estambul (TV) [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbGydeg==&id=34912&tit=Q29uZXhpw7NuIEVzdGFtYnVsIChUVik=
+#EXTINF:0,[COLOR gold]Corazón de León [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKmbG6g&id=34034&tit=Q29yYXrDs24gZGUgTGXDs24=
+#EXTINF:0,[COLOR gold]Cortocircuito [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2scHCadA==&id=32496&tit=Q29ydG9jaXJjdWl0bw==
+#EXTINF:0,[COLOR gold]Cortocircuito 2 [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2taGyacQ==&id=32503&tit=Q29ydG9jaXJjdWl0byAy
+#EXTINF:0,[COLOR gold]Cosas nuestras [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbnCbdg==&id=30699&tit=Q29zYXMgbnVlc3RyYXM=
+#EXTINF:0,[COLOR gold]Cottage Country [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=48961&peli=qY-lcGeZ&id=29688&tit=Q290dGFnZSBDb3VudHJ5
+#EXTINF:0,[COLOR gold]Criaturas feroces [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=wLrip6PWtLbgkczb4bzV&cole=29578&peli=ppGsbG-b&id=13452&tit=Q3JpYXR1cmFzIGZlcm9jZXM=
+#EXTINF:0,[COLOR gold]Critters [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=55908&peli=qJGnaWqa&id=7893&tit=Q3JpdHRlcnM=
+#EXTINF:0,[COLOR gold]Critters 3 [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6saGmXdg==&id=34564&tit=Q3JpdHRlcnMgMw==
+#EXTINF:0,[COLOR gold]Critters 4 [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6saGyXeQ==&id=34569&tit=Q3JpdHRlcnMgNA==
+#EXTINF:0,[COLOR gold]Cruzando el sentido [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI6nbGyddA==&id=33487&tit=Q3J1emFuZG8gZWwgc2VudGlkbw==
+#EXTINF:0,[COLOR gold]Cuatro bodas y un funeral [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2samybdA==&id=31949&tit=Q3VhdHJvIGJvZGFzIHkgdW4gZnVuZXJhbA==
 
 
 
