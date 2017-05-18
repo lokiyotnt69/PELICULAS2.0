@@ -80,6 +80,25 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qpCmbmmZ&id=33470&tit=QW5ncnkgQmlyZHMsIGxhIHBlbMOtY3VsYQ==
 #EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
+#EXTINF:0,[COLOR gold]Ant Bully, bienvenido al hormiguero [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYupbGya&id=29303&tit=QW50IEJ1bGx5LCBiaWVudmVuaWRvIGFsIGhvcm1pZ3Vlcm8=
+#EXTINF:0,[COLOR gold]Ant-Man [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYyoa2yf&id=12345&tit=QW50LU1hbg==
+#EXTINF:0,[COLOR gold]Aquí y ahora [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6sbW2gdA==&id=34605&tit=QXF1w60geSBhaG9yYQ==
+#EXTINF:0,[COLOR gold]Arcadia [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-ncWegcw==&id=35900&tit=QXJjYWRpYQ==
+#EXTINF:0,[COLOR gold]Arizona Baby [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6qbWqY&id=33027&tit=QXJpem9uYSBCYWJ5
+#EXTINF:0,[COLOR gold]Arma fatal [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-laWuXcQ==&id=35150&tit=QXJtYSBmYXRhbA==
+#EXTINF:0,[COLOR gold]Arma letal 4 [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=64773&peli=qpCqbnCf&id=7798&tit=QXJtYSBsZXRhbCA0
+#EXTINF:0,[COLOR gold]Armas de mujer [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbG6XeA==&id=35837&tit=QXJtYXMgZGUgbXVqZXI=
+#EXTINF:0,[COLOR gold]Arsénico por compasión [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qpKrcG-X&id=34112&tit=QXJzw6luaWNvIHBvciBjb21wYXNpw7Nu
+
 
 
 
