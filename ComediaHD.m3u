@@ -535,6 +535,72 @@ plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&p
 plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qY6nb2mc&id=34316&tit=Tm8gbWF0YXLDoXMuLi4gYWwgdmVjaW5v
 #EXTINF:0,[COLOR gold]Noche en el museo [/COLOR][COLOR tomato](HD)[/COLOR]
 plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWyYcQ==&id=31253&tit=Tm9jaGUgZW4gZWwgbXVzZW8=
+#EXTINF:0,[COLOR gold]Noche en el museo 2 [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWugeA==&id=31254&tit=Tm9jaGUgZW4gZWwgbXVzZW8gMg==
+#EXTINF:0,[COLOR gold]Noche en el museo: El secreto del faraón [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87627&peli=pIuraWufdw==&id=31255&tit=Tm9jaGUgZW4gZWwgbXVzZW86IEVsIHNlY3JldG8gZGVsIGZhcmHDs24=
+#EXTINF:0,[COLOR gold]Noches en la ciudad [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=106222&peli=pI-oaWmfcQ==&id=35935&tit=Tm9jaGVzIGVuIGxhIGNpdWRhZA==
+#EXTINF:0,[COLOR gold]Norman del norte [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbW2feQ==&id=31835&tit=Tm9ybWFuIGRlbCBub3J0ZQ==
+#EXTINF:0,[COLOR gold]Notting Hill [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=3cbg&cole=25581&peli=qYuka2-a&id=34318&tit=Tm90dGluZyBIaWxs
+#EXTINF:0,[COLOR gold]November Rule [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=48149&peli=qo-mcGig&id=33138&tit=Tm92ZW1iZXIgUnVsZQ==
+#EXTINF:0,[COLOR gold]Nunca entre amigos [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbmiddQ==&id=30684&tit=TnVuY2EgZW50cmUgYW1pZ29z
+#EXTINF:0,[COLOR gold]Nunca es tarde [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=1sHdm5_WdIWq&cole=22363&peli=po2obW2g&id=33434&tit=TnVuY2EgZXMgdGFyZGU=
+#EXTINF:0,[COLOR gold]Ocho apellidos catalanes [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYylbWmg&id=12378&tit=T2NobyBhcGVsbGlkb3MgY2F0YWxhbmVz
+#EXTINF:0,[COLOR gold]Ocho apellidos vascos [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaGeX&id=28864&tit=T2NobyBhcGVsbGlkb3MgdmFzY29z
+#EXTINF:0,[COLOR gold]One Piece Film Z [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qbmmccw==&id=31871&tit=T25lIFBpZWNlIEZpbG0gWg==
+#EXTINF:0,[COLOR gold]One Piece Gold [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-mbmmbcg==&id=35699&tit=T25lIFBpZWNlIEdvbGQ=
+#EXTINF:0,[COLOR gold]One Piece: Strong World [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=q4mkbWug&id=34142&tit=T25lIFBpZWNlOiBTdHJvbmcgV29ybGQ=
+#EXTINF:0,[COLOR gold]Operación Plus Ultra [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=64463&peli=pIulb2qXcQ==&id=33341&tit=T3BlcmFjacOzbiBQbHVzIFVsdHJh
+#EXTINF:0,[COLOR gold]Ordinary World [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qI6naXCg&id=34372&tit=T3JkaW5hcnkgV29ybGQ=
+#EXTINF:0,[COLOR gold]Orgullo + Prejuicio + Zombies [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYmraW6f&id=29041&tit=T3JndWxsbyArIFByZWp1aWNpbyArIFpvbWJpZXM=
+#EXTINF:0,[COLOR gold]Oscar ¡quita las manos! [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=94361&peli=pI2tcW2gdA==&id=30870&tit=T3NjYXIgwqFxdWl0YSBsYXMgbWFub3Mh
+#EXTINF:0,[COLOR gold]Ozzy [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2obG6feg==&id=30932&tit=T3p6eQ==
+#EXTINF:0,[COLOR gold]Pasándolo de coña en la casa Harker [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2qaGiceg==&id=31791&tit=UGFzw6FuZG9sbyBkZSBjb8OxYSBlbiBsYSBjYXNhIEhhcmtlcg==
+#EXTINF:0,[COLOR gold]Patrimonio nacional [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=tqLCfZvMg5bGdKQ=&cole=64463&peli=q46laG2d&id=33342&tit=UGF0cmltb25pbyBuYWNpb25hbA==
+#EXTINF:0,[COLOR gold]Pee-wee's Big Holiday (TV) [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=xr7moZzaiZk=&cole=35575&peli=qIqkam2e&id=30587&tit=UGVlLXdlZSdzIEJpZyBIb2xpZGF5IChUVik=
+#EXTINF:0,[COLOR gold]Pequeña Miss Sunshine [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo6tb2mY&id=33080&tit=UGVxdWXDsWEgTWlzcyBTdW5zaGluZQ==
+#EXTINF:0,[COLOR gold]Percy Jackson y el ladrón del rayo [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=101722&peli=pI6laW-fcg==&id=33222&tit=UGVyY3kgSmFja3NvbiB5IGVsIGxhZHLDs24gZGVsIHJheW8=
+#EXTINF:0,[COLOR gold]Pieles [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=64736&peli=q42naHCf&id=35794&tit=UGllbGVz
+#EXTINF:0,[COLOR gold]Pimpinela Smith [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-kbm-XeA==&id=34946&tit=UGltcGluZWxhIFNtaXRo
+#EXTINF:0,[COLOR gold]Pirados al rescate [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qZCoa2yg&id=9842&tit=UGlyYWRvcyBhbCByZXNjYXRl
+#EXTINF:0,[COLOR gold]Piratas del Caribe: El cofre del hombre muerto [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6fcg==&id=31330&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbCBjb2ZyZSBkZWwgaG9tYnJlIG11ZXJ0bw==
+#EXTINF:0,[COLOR gold]Piratas del Caribe: En el fin del mundo [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6ecQ==&id=31331&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBFbiBlbCBmaW4gZGVsIG11bmRv
+#EXTINF:0,[COLOR gold]Piratas del Caribe: La maldición de la Perla Negra [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=3c7VpqPMqsvV&cole=87297&peli=pIupbm6bcQ==&id=31329&tit=UGlyYXRhcyBkZWwgQ2FyaWJlOiBMYSBtYWxkaWNpw7NuIGRlIGxhIFBlcmxhIE5lZ3Jh
+#EXTINF:0,[COLOR gold]Pistoleros de agua dulce [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2ncWyXdw==&id=30888&tit=UGlzdG9sZXJvcyBkZSBhZ3VhIGR1bGNl
+#EXTINF:0,[COLOR gold]Plumas de caballo [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2ncWugeg==&id=30887&tit=UGx1bWFzIGRlIGNhYmFsbG8=
+#EXTINF:0,[COLOR gold]Poli de guardería [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=vai5ammYc4yr&cole=50026&peli=qo6oamia&id=9848&tit=UG9saSBkZSBndWFyZGVyw61h
+#EXTINF:0,[COLOR gold]Pompoko (Pom Poko) [/COLOR][COLOR tomato](HD)[/COLOR]
+plugin://plugin.video.cine/?action=play&server=cp&user=xcLXmanLsKvVosbb5g==&cole=51778&peli=qIqram6d&id=11272&tit=UG9tcG9rbyAoUG9tIFBva28p
 
 
 
