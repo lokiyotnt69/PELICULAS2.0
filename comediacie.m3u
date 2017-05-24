@@ -14,20 +14,14 @@ plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&p
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3210&peli=19OrnqjJtr3Zlsbg&id=15026&tit=MTAgcmF6b25lcyBwYXJhIG9kaWFydGU=
 #EXTINF:0,[COLOR gold] DIABLO[/COLOR]10, la mujer perfecta
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8753&peli=44nnaKXVdbngps7w&id=29941&tit=MTAsIGxhIG11amVyIHBlcmZlY3Rh
-#EXTINF:0,[COLOR gold]10, la mujer perfecta [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=81403&peli=pI2mbGyXeA==&id=29940&tit=MTAsIGxhIG11amVyIHBlcmZlY3Rh
 #EXTINF:0,[COLOR gold] DIABLO[/COLOR]100 chicas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2180&peli=29GpnmjRdrvopdXl&id=10245&tit=MTAwIGNoaWNhcw==
 #EXTINF:0,[COLOR gold] DIABLO[/COLOR]100 metros
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5269&peli=qsGocaHgsMurndTt&id=33081&tit=MTAwIG1ldHJvcw==
-#EXTINF:0,[COLOR gold]100 metros [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=49050&peli=qo-kaG-c&id=33086&tit=MTAwIG1ldHJvcw==
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]100 millas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3967&peli=4MDsoJvhp4zrkdjmk4vmnqGfuYnhmdGwpA==&id=15029&tit=MTAwIG1pbGxhcw==
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]101 Dálmatas 2
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5356&peli=28DmsK3Zes7uqNbo&id=23579&tit=MTAxIETDoWxtYXRhcyAy
-#EXTINF:0,[COLOR gold]101 Dálmatas 2 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqra22b&id=29195&tit=MTAxIETDoWxtYXRhcyAy
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]102 dálmatas
 plugin://plugin.video.cine/?action=play&server=dk&user=58vdrqDIr77okQ==&cole=32209&peli=pomqbm6Y&id=952&tit=MTAyIGTDoWxtYXRhcw==
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]12 citas de Navidad (TV)
@@ -48,34 +42,24 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3911&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7912&peli=3MCpq5-drr3sppeyk8jrrqqcrcnfosHr13nZnqLPrYXjqZOq54mUp6XVdYjWoZPt2sri&id=15041&tit=MiBmcmFuY29zLCA0MCBwZXNldGFz
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]2 Guns
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2915&peli=5cqksKeddrnrpsjuk8ffq2_Vpc7eoNXf5nnqbbCZsI3lYdfno7yUrmzgc8SsoZDy4InXWGjYdMelktXl64_bqVfXpo7no9Py34zYqKGHYYflpJT01b3ooGvecQ==&id=15040&tit=MiBHdW5z
-#EXTINF:0,[COLOR gold]2 Guns [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=3brnoKfco8Hd&cole=53881&peli=qYypbmic&id=12341&tit=MiBHdW5z
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]20 años no importan
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7860&peli=3pDrnJ2Xucnmmc7gk7vfoqXdor_bacbkrHninqubeIraZ8Hp5MmUa6yeq8Sqk9Tf546r&id=15042&tit=MjAgYcOxb3Mgbm8gaW1wb3J0YW4=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]20.000 besos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8181&peli=qcfVm5nQecmracuxk5LfrqnTur7eo9Kr3Q==&id=23304&tit=MjAuMDAwIGJlc29z
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]22 Balas (El inmortal)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4284&peli=rImpqayeo7brpc7ik5HqpaffcsqkqJitpQ==&id=23313&tit=MjIgQmFsYXMgKEVsIGlubW9ydGFsKQ==
-#EXTINF:0,[COLOR gold]22 Balas (El inmortal) [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MvhnaHWsw==&cole=29815&peli=qYqocW-c&id=30201&tit=MjIgQmFsYXMgKEVsIGlubW9ydGFsKQ==
 #EXTINF:0,[COLOR gold] DIABLO[/COLOR]24 Hour Party People
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2324&peli=1ZHima7KtsrnYtLyk7zWoG2ep8HlqtPh1w==&id=15046&tit=MjQgSG91ciBQYXJ0eSBQZW9wbGU=
-#EXTINF:0,[COLOR gold]24 Hour Party People [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI-nbmmedg==&id=35856&tit=MjQgSG91ciBQYXJ0eSBQZW9wbGU=
 #EXTINF:0,[COLOR gold] DIABLO[/COLOR]27 vestidos
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8063&peli=5M3saZugs7bqnsLuk7raqbGcc8DXl5Oy4Q==&id=19365&tit=MjcgdmVzdGlkb3M=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]28 días
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7107&peli=29HrsLDMsI2lZI-x&id=28597&tit=MjggZMOtYXM=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]3 bodas de más
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3032&peli=4MDWravdccStZ8Dj&id=20265&tit=MyBib2RhcyBkZSBtw6Fz
-#EXTINF:0,[COLOR gold]3 bodas de más [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qJKoaG2f&id=28866&tit=MyBib2RhcyBkZSBtw6Fz
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]3 colegas y una salchicha
 plugin://plugin.video.cine/?action=play&server=dk&user=18PWoava&cole=25575&peli=pI-scWeZ&id=3236&tit=MyBjb2xlZ2FzIHkgdW5hIHNhbGNoaWNoYQ==
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]3 generaciones
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=4569&peli=o8Dcr6DNernmptnj&id=29234&tit=MyBnZW5lcmFjaW9uZXM=
-#EXTINF:0,[COLOR gold]3 generaciones [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYuncGif&id=29286&tit=MyBnZW5lcmFjaW9uZXM=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]3 ninjas contraatacan (Tres pequeños ninjas 2)
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7802&peli=2I7Yqq7LdYjfqsbn&id=15053&tit=MyBuaW5qYXMgY29udHJhYXRhY2FuIChUcmVzIHBlcXVlw7FvcyBuaW5qYXMgMik=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]3 ninjas en el parque de atracciones (Tres pequeños ninjas 4)
@@ -96,8 +80,6 @@ plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5067&pe
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2267&peli=1L7ZoW-bdrenlJXs&id=15065&tit=NDggaG9yYXMgbcOhcw==
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]5 to 7
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=2717&peli=q8-tm6mgo46nqM7ck8XkcGygrsbuadWxqHnqp6vXtcDdmMDkqdKUnprZssDnndXe1NLgWHDRdImnmNPw7LrWolffeb3knpCw48OlmayHrb_qqJDk3cLkoZvgYbbil8Ov6o6kr26bqHXmYczx1MPubZvaqcKUoJHn2cXWaKyXr4aqUJWx1b-onJ2gcsCkmw==&id=13637&tit=NSB0byA3
-#EXTINF:0,[COLOR gold]5 to 7 [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=cp&user=1M3VraPNsA==&cole=103680&peli=pI6tcG6bcg==&id=34678&tit=NSB0byA3
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]50 primeras citas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=7221&peli=587pbJ7gscvZZMvrk4nYaKzQt8Xlp9btqnmmrWqYrobiqMnup80=&id=15069&tit=NTAgcHJpbWVyYXMgY2l0YXM=
 #EXTINF:0,[COLOR gold] DIABLO [/COLOR]50 sombras muy oscuras
@@ -180,24 +162,18 @@ plugin://plugin.video.cine/?action=play&server=cp&user=vsjWmWigeok=&cole=83131&p
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5ClaWye&id=4333&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxhIG1vbWlh
 #EXTINF:0,[COLOR gold] **[/COLOR]Abbott y Costello contra los fantasmas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5294&peli=4dHboJ3dccjcYcCuk8flb3DLdIrpm8Sx1Hmlpm_Xt4jrmMvzpcCUpZnVp7irqcOu2b-t&id=18745&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxvcyBmYW50YXNtYXM=
-#EXTINF:0,[COLOR gold]Abbott y Costello contra los fantasmas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=44636&peli=qI2na22d&id=23115&tit=QWJib3R0IHkgQ29zdGVsbG8gY29udHJhIGxvcyBmYW50YXNtYXM=
 #EXTINF:0,[COLOR gold] **[/COLOR]Abbott y Costello van a Marte
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5Cmb2ma&id=4335&tit=QWJib3R0IHkgQ29zdGVsbG8gdmFuIGEgTWFydGU=
 #EXTINF:0,[COLOR gold] **[/COLOR]Abril en París
 plugin://plugin.video.cine/?action=play&server=dk&user=w87foaWu&cole=41154&peli=p5CmcG6a&id=4336&tit=QWJyaWwgZW4gUGFyw61z
 #EXTINF:0,[COLOR gold] **[/COLOR]Absolutamente fabulosas
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=8226&peli=1YnXb23OcsDgnsDtk83gbKPIq4eoosmz7Q==&id=29611&tit=QWJzb2x1dGFtZW50ZSBmYWJ1bG9zYXM=
-#EXTINF:0,[COLOR gold]Absolutamente fabulosas [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=4LrssJrV&cole=49117&peli=qY6naWyc&id=29622&tit=QWJzb2x1dGFtZW50ZSBmYWJ1bG9zYXM=
 #EXTINF:0,[COLOR gold] **[/COLOR]Absolutamente todo
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=3423&peli=17rlopvJo8XpppXlk8vdpareer6tncqsq3mlnGmdp7ykqMXr2ZCUpWrUqszkZsTx4dOlWG6XdbumpdXo4MGpnFebesvVZNHh1bqnsaeHrreqm9Oq68Oon6DUYb2mZMiyqNOmsqjMcQ==&id=13651&tit=QWJzb2x1dGFtZW50ZSB0b2Rv
 #EXTINF:0,[COLOR gold] **[/COLOR]Abuelo made in Spain
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=5393&peli=2I_osmnWqbanpo-s&id=15100&tit=QWJ1ZWxvIG1hZGUgaW4gU3BhaW4=
 #EXTINF:0,[COLOR gold] **[/COLOR]Abuelos al poder
 plugin://plugin.video.cine/?action=play&server=sc&user=tMXVoKzIq7o=&cole=6924&peli=5srVrqiec7rglJjg&id=20317&tit=QWJ1ZWxvcyBhbCBwb2Rlcg==
-#EXTINF:0,[COLOR gold]Academia Rushmore [/COLOR][COLOR tomato](HD)[/COLOR]
-plugin://plugin.video.cine/?action=play&server=dk&user=2MXdmpzZtcTg&cole=42775&peli=qYqmb2qa&id=29145&tit=QWNhZGVtaWEgUnVzaG1vcmU=
 #EXTINF:0,[COLOR gold] **[/COLOR]Acampa como puedas
 plugin://plugin.video.cine/?action=play&server=dk&user=1sLinZvMrcTnaI8=&cole=34332&peli=po2la3Ca&id=11726&tit=QWNhbXBhIGNvbW8gcHVlZGFz
 #EXTINF:0,[COLOR gold] **[/COLOR]Accepted (Admitido)
