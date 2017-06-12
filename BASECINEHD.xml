@@ -29,60 +29,6 @@
 
 
 
-<item>
-<title>-[COLOR  red] ANIMACIÓN [/COLOR][COLOR  blue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://cdn6.dibujos.net/images/encuestas/big/que-pelicula-crees-que-ganara-el-oscar-2015-al-mejor-film-de-animacion.jpg</thumbnail>
-<fanart>http://cdn6.dibujos.net/images/encuestas/big/que-pelicula-crees-que-ganara-el-oscar-2015-al-mejor-film-de-animacion.jpg</fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR  red] DRAMA [/COLOR][COLOR  BLUE] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://img.clipartall.com/theatre-faces-clipart-clipart-kid-drama-masks-clipart-600_386.png</thumbnail>
-<fanart>http://img.clipartall.com/theatre-faces-clipart-clipart-kid-drama-masks-clipart-600_386.png</fanart>
-<externallink></externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR  red] AVENTURAS [/COLOR][COLOR  blue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg-</fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR  red] BÉLICO [/COLOR][COLOR  blue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://1.bp.blogspot.com/-xtU2-TSBag4/Usgn-Hux8ZI/AAAAAAAAprc/qY6mYMiKMCM/s1600/cine-belico-promociones-el-correo-de-andalucia.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-xtU2-TSBag4/Usgn-Hux8ZI/AAAAAAAAprc/qY6mYMiKMCM/s1600/cine-belico-promociones-el-correo-de-andalucia.png</fanart>
-<externallink></externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR red] TERROR  [/COLOR][COLOR  blue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.churchofhalloween.com/wp-content/posts/sounds-of-terror.png</thumbnail>
-<fanart>http://www.churchofhalloween.com/wp-content/posts/sounds-of-terror.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/CINETERRORHD.m3u</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR  red] SUSPENSE  [/COLOR][COLOR  blue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
 
 
@@ -96,8 +42,62 @@
 
 
 
+<!----
 <item>
-<title>-[COLOR  red] THRILLER [/COLOR][COLOR  blue] HD [/COLOR]</title>
+<title>-[COLOR red] TERROR  [/COLOR][COLOR  blue] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.churchofhalloween.com/wp-content/posts/sounds-of-terror.png</thumbnail>
+<fanart>http://www.churchofhalloween.com/wp-content/posts/sounds-of-terror.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/CINETERRORHD.m3u</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  red] SUSPENSE  [/COLOR][COLOR  blue] HD (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  red] AVENTURAS [/COLOR][COLOR  blue] HD (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-EH4xQvPH4ys/UyxzCyo21UI/AAAAAAAAVxw/Fx5ywSCj2bw/s1600/Pelis+de+ci--fi.jpg-</fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  red] ANIMACIÓN [/COLOR][COLOR  blue] HD (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cdn6.dibujos.net/images/encuestas/big/que-pelicula-crees-que-ganara-el-oscar-2015-al-mejor-film-de-animacion.jpg</thumbnail>
+<fanart>http://cdn6.dibujos.net/images/encuestas/big/que-pelicula-crees-que-ganara-el-oscar-2015-al-mejor-film-de-animacion.jpg</fanart>
+<externallink></externallink>	
+</item>
+
+<item>
+<title>-[COLOR  red] DRAMA [/COLOR][COLOR  BLUE] HD (OFF)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://img.clipartall.com/theatre-faces-clipart-clipart-kid-drama-masks-clipart-600_386.png</thumbnail>
+<fanart>http://img.clipartall.com/theatre-faces-clipart-clipart-kid-drama-masks-clipart-600_386.png</fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  red] BÉLICO [/COLOR][COLOR  blue] HD (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://1.bp.blogspot.com/-xtU2-TSBag4/Usgn-Hux8ZI/AAAAAAAAprc/qY6mYMiKMCM/s1600/cine-belico-promociones-el-correo-de-andalucia.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-xtU2-TSBag4/Usgn-Hux8ZI/AAAAAAAAprc/qY6mYMiKMCM/s1600/cine-belico-promociones-el-correo-de-andalucia.png</fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  red] THRILLER [/COLOR][COLOR  blue] HD (OFF) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -107,7 +107,7 @@
 
 
 <item>
-<title>-[COLOR  red]CINE ROMANCE [/COLOR][COLOR  blue] HD [/COLOR]</title>
+<title>-[COLOR  red]CINE ROMANCE [/COLOR][COLOR  blue] HD (OFF)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -116,9 +116,10 @@
 
 
 <item>
-<title>-[COLOR  red] CINE FICCION  [/COLOR][COLOR  blue] HD [/COLOR]</title>
+<title>-[COLOR  red] CINE FICCION  [/COLOR][COLOR  blue] HD (OFF)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink></externallink>	
 </item>
+------->
